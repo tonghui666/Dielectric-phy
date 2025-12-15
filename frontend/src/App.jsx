@@ -97,7 +97,7 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get('http://localhost:8000/graph');
+        const response = await axios.get('/api/graph');
         setGraphData(response.data);
       } catch (error) {
         console.error('Error fetching graph data:', error);
@@ -108,7 +108,7 @@ function App() {
 
     const fetchQuiz = async () => {
       try {
-        const response = await axios.get('http://localhost:8000/quiz');
+        const response = await axios.get('/api/quiz');
         if (Array.isArray(response.data)) {
             setQuizQuestions(response.data);
         }

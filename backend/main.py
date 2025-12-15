@@ -14,7 +14,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.get("/graph")
+@app.get("/api/graph")
 def get_graph():
     # 获取当前脚本所在目录
     base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -24,7 +24,7 @@ def get_graph():
         data = json.load(f)
     return data
 
-@app.get("/quiz")
+@app.get("/api/quiz")
 def get_quiz():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(base_dir, "questions.json")
