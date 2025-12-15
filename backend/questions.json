@@ -1,0 +1,9137 @@
+[
+  {
+    "id": 1,
+    "question": "电介质的核心特点是在电场作用下具有极化能力并能长期存在电场，其主要作用是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "导电"
+      },
+      {
+        "label": "B",
+        "content": "储能"
+      },
+      {
+        "label": "C",
+        "content": "发热"
+      },
+      {
+        "label": "D",
+        "content": "放电"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 2,
+    "question": "静电场中，导体达到静电平衡时的特征是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "导体内场强不为零"
+      },
+      {
+        "label": "B",
+        "content": "导体表面场强与表面平行"
+      },
+      {
+        "label": "C",
+        "content": "导体是等势体"
+      },
+      {
+        "label": "D",
+        "content": "导体内部存在自由电荷移动"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 3,
+    "question": "电介质与导体的本质区别在于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电介质不能导电"
+      },
+      {
+        "label": "B",
+        "content": "电介质内部无自由电荷"
+      },
+      {
+        "label": "C",
+        "content": "电介质在静电平衡下内部仍有电场"
+      },
+      {
+        "label": "D",
+        "content": "电介质的电阻率极低"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 4,
+    "question": "从能带理论来看，电介质的禁带宽度Eg满足（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "Eg=0"
+      },
+      {
+        "label": "B",
+        "content": "Eg较小"
+      },
+      {
+        "label": "C",
+        "content": "Eg较大"
+      },
+      {
+        "label": "D",
+        "content": "与导体相同"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 5,
+    "question": "半导体的禁带宽度特点是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "Eg=0"
+      },
+      {
+        "label": "B",
+        "content": "Eg较小"
+      },
+      {
+        "label": "C",
+        "content": "Eg较大"
+      },
+      {
+        "label": "D",
+        "content": "大于电介质的Eg"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 6,
+    "question": "导体的能带结构特征是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "满带与导带重合，Eg=0"
+      },
+      {
+        "label": "B",
+        "content": "满带与导带分离，Eg较小"
+      },
+      {
+        "label": "C",
+        "content": "满带与导带分离，Eg较大"
+      },
+      {
+        "label": "D",
+        "content": "只有满带，无导带"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 7,
+    "question": "电介质物理研究的核心内容不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极化"
+      },
+      {
+        "label": "B",
+        "content": "电导"
+      },
+      {
+        "label": "C",
+        "content": "电磁感应"
+      },
+      {
+        "label": "D",
+        "content": "击穿"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 8,
+    "question": "表征电介质极化特性的宏观物理量是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电导率"
+      },
+      {
+        "label": "B",
+        "content": "介电常数"
+      },
+      {
+        "label": "C",
+        "content": "损耗角正切"
+      },
+      {
+        "label": "D",
+        "content": "击穿场强"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 9,
+    "question": "电介质的绝缘性能好坏主要通过研究（  ）来判断",
+    "options": [
+      {
+        "label": "A",
+        "content": "极化强度"
+      },
+      {
+        "label": "B",
+        "content": "漏电流"
+      },
+      {
+        "label": "C",
+        "content": "介电常数"
+      },
+      {
+        "label": "D",
+        "content": "偶极矩"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 10,
+    "question": "下列不属于电介质研究内容的是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极化机制"
+      },
+      {
+        "label": "B",
+        "content": "电导特性"
+      },
+      {
+        "label": "C",
+        "content": "磁场感应"
+      },
+      {
+        "label": "D",
+        "content": "介质损耗"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 11,
+    "question": "按组成特性分类，电介质可分为无机和有机两类，下列属于无机电介质的是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "矿物油"
+      },
+      {
+        "label": "B",
+        "content": "纸"
+      },
+      {
+        "label": "C",
+        "content": "云母"
+      },
+      {
+        "label": "D",
+        "content": "有机高分子聚合物"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 12,
+    "question": "按聚集态分类，空气属于（  ）电介质",
+    "options": [
+      {
+        "label": "A",
+        "content": "固体"
+      },
+      {
+        "label": "B",
+        "content": "液体"
+      },
+      {
+        "label": "C",
+        "content": "气体"
+      },
+      {
+        "label": "D",
+        "content": "复合"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 13,
+    "question": "石英属于按原子排列有序化程度分类中的（  ）电介质",
+    "options": [
+      {
+        "label": "A",
+        "content": "晶体"
+      },
+      {
+        "label": "B",
+        "content": "非晶态"
+      },
+      {
+        "label": "C",
+        "content": "均匀"
+      },
+      {
+        "label": "D",
+        "content": "非均匀"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 14,
+    "question": "玻璃属于按原子排列有序化程度分类中的（  ）电介质",
+    "options": [
+      {
+        "label": "A",
+        "content": "晶体"
+      },
+      {
+        "label": "B",
+        "content": "非晶态"
+      },
+      {
+        "label": "C",
+        "content": "极性"
+      },
+      {
+        "label": "D",
+        "content": "非极性"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 15,
+    "question": "极性电介质的分子特点是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "无外电场时正负电荷重合"
+      },
+      {
+        "label": "B",
+        "content": "无外电场时正负电荷不重合"
+      },
+      {
+        "label": "C",
+        "content": "分子偶极矩矢量和为零"
+      },
+      {
+        "label": "D",
+        "content": "不能被极化"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 16,
+    "question": "非极性电介质的分子特点是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "无外电场时正负电荷重合"
+      },
+      {
+        "label": "B",
+        "content": "无外电场时正负电荷不重合"
+      },
+      {
+        "label": "C",
+        "content": "分子偶极矩矢量和不为零"
+      },
+      {
+        "label": "D",
+        "content": "只能发生转向极化"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 17,
+    "question": "复合电介质属于按（  ）分类的类型",
+    "options": [
+      {
+        "label": "A",
+        "content": "组成特性"
+      },
+      {
+        "label": "B",
+        "content": "聚集态"
+      },
+      {
+        "label": "C",
+        "content": "均匀度"
+      },
+      {
+        "label": "D",
+        "content": "分子电荷分布"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 18,
+    "question": "电介质物理作为独立分支，其研究对象是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "导体"
+      },
+      {
+        "label": "B",
+        "content": "半导体"
+      },
+      {
+        "label": "C",
+        "content": "电介质"
+      },
+      {
+        "label": "D",
+        "content": "所有物质"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 19,
+    "question": "下列属于电介质应用的是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电线芯材"
+      },
+      {
+        "label": "B",
+        "content": "铁电存储器"
+      },
+      {
+        "label": "C",
+        "content": "电池电极"
+      },
+      {
+        "label": "D",
+        "content": "电阻丝"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 20,
+    "question": "我国电介质物理学的先驱和奠基人是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "方俊鑫"
+      },
+      {
+        "label": "B",
+        "content": "陈季丹"
+      },
+      {
+        "label": "C",
+        "content": "姚熹"
+      },
+      {
+        "label": "D",
+        "content": "李龙土"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 21,
+    "question": "最早在上海交通大学开设电介质物理课程的是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "陈季丹"
+      },
+      {
+        "label": "B",
+        "content": "方俊鑫"
+      },
+      {
+        "label": "C",
+        "content": "姚熹"
+      },
+      {
+        "label": "D",
+        "content": "谢希德"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 22,
+    "question": "方俊鑫被尊为国内电介质物理的开拓者和奠基人，他在复旦大学创建了（  ）专业点",
+    "options": [
+      {
+        "label": "A",
+        "content": "电气绝缘"
+      },
+      {
+        "label": "B",
+        "content": "固体物理及半导体物理"
+      },
+      {
+        "label": "C",
+        "content": "电子工程"
+      },
+      {
+        "label": "D",
+        "content": "材料科学"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 23,
+    "question": "姚熹是我国铁电陶瓷研究的主要奠基人之一，他的研究领域不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电介质材料与器件"
+      },
+      {
+        "label": "B",
+        "content": "纳米复合功能材料"
+      },
+      {
+        "label": "C",
+        "content": "超导材料"
+      },
+      {
+        "label": "D",
+        "content": "集成铁电器件"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 24,
+    "question": "国际上最重视电介质研究的国家不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "中国"
+      },
+      {
+        "label": "B",
+        "content": "美国"
+      },
+      {
+        "label": "C",
+        "content": "日本"
+      },
+      {
+        "label": "D",
+        "content": "巴西"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 25,
+    "question": "电介质物理与其他学科交叉发展，下列不属于其交叉学科的是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "晶体学"
+      },
+      {
+        "label": "B",
+        "content": "高分子材料学"
+      },
+      {
+        "label": "C",
+        "content": "天体物理学"
+      },
+      {
+        "label": "D",
+        "content": "电磁场与微波技术"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 26,
+    "question": "表征电介质极化的基本物理量是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电导率"
+      },
+      {
+        "label": "B",
+        "content": "介电常数"
+      },
+      {
+        "label": "C",
+        "content": "击穿场强"
+      },
+      {
+        "label": "D",
+        "content": "损耗角正切"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 27,
+    "question": "电容量的单位是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "欧姆"
+      },
+      {
+        "label": "B",
+        "content": "法拉"
+      },
+      {
+        "label": "C",
+        "content": "西门子"
+      },
+      {
+        "label": "D",
+        "content": "伏特"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 28,
+    "question": "1微法（μF）等于（  ）法拉",
+    "options": [
+      {
+        "label": "A",
+        "content": "1×10^-3"
+      },
+      {
+        "label": "B",
+        "content": "1×10^-6"
+      },
+      {
+        "label": "C",
+        "content": "1×10^-9"
+      },
+      {
+        "label": "D",
+        "content": "1×10^-12"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 29,
+    "question": "1皮法（pF）等于（  ）法拉",
+    "options": [
+      {
+        "label": "A",
+        "content": "1×10^-6"
+      },
+      {
+        "label": "B",
+        "content": "1×10^-9"
+      },
+      {
+        "label": "C",
+        "content": "1×10^-12"
+      },
+      {
+        "label": "D",
+        "content": "1×10^-15"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 30,
+    "question": "真空介电常数ε₀的近似值为（  ）F/m",
+    "options": [
+      {
+        "label": "A",
+        "content": "8.85×10^-12"
+      },
+      {
+        "label": "B",
+        "content": "8.85×10^-10"
+      },
+      {
+        "label": "C",
+        "content": "1×10^-12"
+      },
+      {
+        "label": "D",
+        "content": "1×10^-10"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 31,
+    "question": "相对介电常数εᵣ是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "有量纲的物理量"
+      },
+      {
+        "label": "B",
+        "content": "纯数"
+      },
+      {
+        "label": "C",
+        "content": "单位为法拉"
+      },
+      {
+        "label": "D",
+        "content": "小于1的物理量"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 32,
+    "question": "云母的相对介电常数εᵣ约为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "7"
+      },
+      {
+        "label": "C",
+        "content": "100"
+      },
+      {
+        "label": "D",
+        "content": "1000"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 33,
+    "question": "下列电介质中相对介电常数最大的是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "酒精"
+      },
+      {
+        "label": "B",
+        "content": "纯绝缘油"
+      },
+      {
+        "label": "C",
+        "content": "空气"
+      },
+      {
+        "label": "D",
+        "content": "二氧化钛（TiO₂）"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 34,
+    "question": "空气的相对介电常数与（  ）接近",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "100"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 35,
+    "question": "电介质的极化能力越强，其介电常数ε值（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "越小"
+      },
+      {
+        "label": "B",
+        "content": "越大"
+      },
+      {
+        "label": "C",
+        "content": "不变"
+      },
+      {
+        "label": "D",
+        "content": "与极化能力无关"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 36,
+    "question": "现代电子工业要求电容器小型化，应选用（  ）的电介质",
+    "options": [
+      {
+        "label": "A",
+        "content": "介电常数小"
+      },
+      {
+        "label": "B",
+        "content": "介电常数大"
+      },
+      {
+        "label": "C",
+        "content": "电阻率小"
+      },
+      {
+        "label": "D",
+        "content": "损耗角正切大"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 37,
+    "question": "目前最小尺寸的电容器型号是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "1206型"
+      },
+      {
+        "label": "B",
+        "content": "0603型"
+      },
+      {
+        "label": "C",
+        "content": "0201型"
+      },
+      {
+        "label": "D",
+        "content": "01005型"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 38,
+    "question": "电介质物理的研究内容不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极化"
+      },
+      {
+        "label": "B",
+        "content": "电导"
+      },
+      {
+        "label": "C",
+        "content": "磁场"
+      },
+      {
+        "label": "D",
+        "content": "击穿"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 39,
+    "question": "下列属于有机电介质的是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "云母"
+      },
+      {
+        "label": "B",
+        "content": "玻璃"
+      },
+      {
+        "label": "C",
+        "content": "矿物油"
+      },
+      {
+        "label": "D",
+        "content": "电子陶瓷"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 40,
+    "question": "下列属于固体电介质的是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "空气"
+      },
+      {
+        "label": "B",
+        "content": "电容器油"
+      },
+      {
+        "label": "C",
+        "content": "纸"
+      },
+      {
+        "label": "D",
+        "content": "酒精"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 41,
+    "question": "电介质的极化是指在电场作用下，其内部（  ）的现象",
+    "options": [
+      {
+        "label": "A",
+        "content": "自由电荷定向移动"
+      },
+      {
+        "label": "B",
+        "content": "束缚电荷形成电极化"
+      },
+      {
+        "label": "C",
+        "content": "产生电流"
+      },
+      {
+        "label": "D",
+        "content": "发生击穿"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 42,
+    "question": "电介质的击穿是指在（  ）作用下导致破坏的现象",
+    "options": [
+      {
+        "label": "A",
+        "content": "弱电场"
+      },
+      {
+        "label": "B",
+        "content": "强电场"
+      },
+      {
+        "label": "C",
+        "content": "低温"
+      },
+      {
+        "label": "D",
+        "content": "高温"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 43,
+    "question": "电介质的损耗是指在电场作用下（  ）的耗散",
+    "options": [
+      {
+        "label": "A",
+        "content": "电能"
+      },
+      {
+        "label": "B",
+        "content": "磁能"
+      },
+      {
+        "label": "C",
+        "content": "热能"
+      },
+      {
+        "label": "D",
+        "content": "机械能"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 44,
+    "question": "绝缘电阻的单位是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "欧姆"
+      },
+      {
+        "label": "B",
+        "content": "法拉"
+      },
+      {
+        "label": "C",
+        "content": "西门子"
+      },
+      {
+        "label": "D",
+        "content": "伏特"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 45,
+    "question": "损耗角正切值tgδ的物理意义是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "表征极化能力"
+      },
+      {
+        "label": "B",
+        "content": "表征绝缘性能"
+      },
+      {
+        "label": "C",
+        "content": "表征能量损耗程度"
+      },
+      {
+        "label": "D",
+        "content": "表征击穿强度"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 46,
+    "question": "介电强度Eb的单位是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "V/m"
+      },
+      {
+        "label": "B",
+        "content": "Ω·m"
+      },
+      {
+        "label": "C",
+        "content": "F/m"
+      },
+      {
+        "label": "D",
+        "content": "S/m"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 47,
+    "question": "陈季丹教授与刘子玉合编的著作是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "《电介质理论基础》"
+      },
+      {
+        "label": "B",
+        "content": "《电介质物理学》"
+      },
+      {
+        "label": "C",
+        "content": "《固体物理学》"
+      },
+      {
+        "label": "D",
+        "content": "《光波导的微观量子理论》"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 48,
+    "question": "方俊鑫与谢希德等合著的著作是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "《电介质物理学》"
+      },
+      {
+        "label": "B",
+        "content": "《固体物理学》"
+      },
+      {
+        "label": "C",
+        "content": "《电介质理论基础》"
+      },
+      {
+        "label": "D",
+        "content": "《无线电原理》"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 49,
+    "question": "殷之文主编的《电介质物理学》（第二版）出版于（  ）年",
+    "options": [
+      {
+        "label": "A",
+        "content": "1982"
+      },
+      {
+        "label": "B",
+        "content": "1991"
+      },
+      {
+        "label": "C",
+        "content": "2003"
+      },
+      {
+        "label": "D",
+        "content": "2000"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 50,
+    "question": "孙目珍编写的《电介质物理基础》由（  ）出版社出版",
+    "options": [
+      {
+        "label": "A",
+        "content": "机械工业出版社"
+      },
+      {
+        "label": "B",
+        "content": "科学出版社"
+      },
+      {
+        "label": "C",
+        "content": "华南理工大学出版社"
+      },
+      {
+        "label": "D",
+        "content": "西安交通大学出版社"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 1,
+    "question": "电介质是在电场作用下具有（  ）并能在其中长期存在电场的一种物质，主要作用是（  ）。",
+    "options": [],
+    "answer": "极化能力；储能",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 2,
+    "question": "静电场中，导体的自由电子在电场作用下发生（  ），而电介质在静电平衡下内部（  ）电场存在。",
+    "options": [],
+    "answer": "静电感应；仍有",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 3,
+    "question": "导体达到静电平衡时，导体内任何一点场强为（  ），导体表面场强与表面（  ），整个导体是（  ）。",
+    "options": [],
+    "answer": "零；垂直；等势体",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 4,
+    "question": "从能带理论来看，电介质的基态被（  ）占据，基态与第一激发态之间被（  ）隔开，禁带宽度Eg（  ）。",
+    "options": [],
+    "answer": "满带；很宽的禁带；较大",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 5,
+    "question": "导体的满带与导带（  ），禁带宽度Eg（  ）；半导体的禁带宽度Eg（  ）。",
+    "options": [],
+    "answer": "重合；=0；较小",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 6,
+    "question": "电介质物理的研究内容包括（  ）、（  ）、（  ）和（  ）四个核心方面。",
+    "options": [],
+    "answer": "极化；电导；损耗；击穿",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 7,
+    "question": "电介质的极化是指其内部束缚电荷在电场作用下以（  ）方式传递和记录电的影响，而不是以（  ）方式。",
+    "options": [],
+    "answer": "感应（极化）；传导",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 8,
+    "question": "电介质的绝缘性能好坏通过研究其在电场作用下的（  ）来判断。",
+    "options": [],
+    "answer": "漏电流",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 9,
+    "question": "电介质按组成特性可分为（  ）和（  ）两类。",
+    "options": [],
+    "answer": "无机电介质；有机电介质",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 10,
+    "question": "无机电介质的典型例子有（  ）、（  ）、（  ）等；有机电介质的典型例子有（  ）、（  ）、（  ）等。",
+    "options": [],
+    "answer": "云母；玻璃；电子陶瓷；矿物油；纸；有机高分子聚合物",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 11,
+    "question": "电介质按聚集态可分为（  ）、（  ）和（  ）三类，对应的典型例子分别是（  ）、（  ）、（  ）。",
+    "options": [],
+    "answer": "气体介质；液体介质；固体介质；空气；电容器油；电子陶瓷",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 12,
+    "question": "电介质按原子排列的有序化程度可分为（  ）和（  ），典型例子分别是（  ）和（  ）。",
+    "options": [],
+    "answer": "晶体；非晶态；石英；玻璃",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 13,
+    "question": "极性电介质由（  ）分子组成，非极性电介质由（  ）分子组成。",
+    "options": [],
+    "answer": "正负电荷不重合的极性；正负电荷重合的中性",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 14,
+    "question": "电介质按均匀度可分为（  ）和（  ），其中（  ）又称为复合介质。",
+    "options": [],
+    "answer": "均匀电介质；非均匀电介质；非均匀电介质",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 15,
+    "question": "表征电介质介电性能的参数主要有（  ）、（  ）、（  ）、（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "电容量C；介电常数ε；电容量温度系数α_c；绝缘电阻IR；损耗角正切值tgδ；介电强度Eb",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 16,
+    "question": "电容量C的定义式为（  ），单位是（  ）。",
+    "options": [],
+    "answer": "C=Q/V；法拉（F）",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 17,
+    "question": "介电常数ε的定义式为（  ），其中ε₀是（  ），εᵣ是（  ）。",
+    "options": [],
+    "answer": "ε=ε₀εᵣ；真空介电常数；相对介电常数",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 18,
+    "question": "真空介电常数ε₀的近似值为（  ）F/m，它是一个（  ）常量。",
+    "options": [],
+    "answer": "8.85×10^-12；普适",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 19,
+    "question": "相对介电常数εᵣ是（  ）与（  ）的比值，是一个（  ）的纯数。",
+    "options": [],
+    "answer": "电介质的介电常数；真空介电常数；大于1",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 20,
+    "question": "1μF=（  ）nF，1nF=（  ）pF。",
+    "options": [],
+    "answer": "1000；1000",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 21,
+    "question": "当电介质代替真空时，电容器的电容量将（  ），增大的倍数等于该电介质的（  ）。",
+    "options": [],
+    "answer": "增大；相对介电常数εᵣ",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 22,
+    "question": "电介质的介电常数越大，在相同尺寸的电极系统中，电容器的电容量（  ），这有利于电子设备的（  ）。",
+    "options": [],
+    "answer": "越大；小型化",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 23,
+    "question": "陈季丹教授于（  ）年在上海交通大学首先开设了电介质物理课程，他是我国电介质物理学教学的（  ）和（  ）。",
+    "options": [],
+    "answer": "1955；先驱；奠基人",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 24,
+    "question": "方俊鑫在复旦大学创建了（  ）和（  ）专业点，后来又主持建立了（  ）专业点。",
+    "options": [],
+    "answer": "固体物理；半导体物理；电介质物理",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 25,
+    "question": "姚熹是国际知名的材料科学家，他是我国（  ）研究方面的主要奠基人之一，1991年当选为（  ）院士。",
+    "options": [],
+    "answer": "铁电陶瓷；中国科学院",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 26,
+    "question": "李龙土院士的研究方向是（  ），他走出了一条（  ）—（  ）—（  ）—（  ）相衔接的良性循环之路。",
+    "options": [],
+    "answer": "电子材料与元器件；基础性研究；新材料研制；器件应用；成果转化",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 27,
+    "question": "李言荣院士长期从事（  ）的教学和科研工作，研究领域包括高温超导薄膜、（  ）、纳米介电薄膜等。",
+    "options": [],
+    "answer": "电子材料与元器件；铁电薄膜与应用",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 28,
+    "question": "电介质物理是从事（  ）、（  ）、（  ）的生产、试制、研究领域内科技工作者的必备基础理论。",
+    "options": [],
+    "answer": "新型电子元件；器件；组件",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 29,
+    "question": "电介质物理与（  ）、（  ）、（  ）等学科交叉发展，应用于光电子学器件、微波通信等领域。",
+    "options": [],
+    "answer": "晶体学；高分子材料学；电磁场与微波技术",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 30,
+    "question": "常见的电介质极化类型有（  ）、（  ）、（  ）和（  ）等。",
+    "options": [],
+    "answer": "电子位移极化；离子位移极化；转向极化；空间电荷极化",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 31,
+    "question": "电子位移极化的建立时间约为（  ）秒，属于（  ）极化。",
+    "options": [],
+    "answer": "10^-14～10^-15；快",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 32,
+    "question": "离子位移极化的建立时间约为（  ）秒，属于（  ）极化。",
+    "options": [],
+    "answer": "10^-12～10^-13；快",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 33,
+    "question": "转向极化的建立时间约为（  ）秒，属于（  ）极化，与（  ）有关。",
+    "options": [],
+    "answer": "10^-6～10^-2；慢；热运动",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 34,
+    "question": "空间电荷极化是非均匀介质或存在（  ）的介质所表现出的主要极化形式之一。",
+    "options": [],
+    "answer": "缺陷",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 35,
+    "question": "极化强度P的定义是电介质（  ）的偶极矩，单位是（  ）。",
+    "options": [],
+    "answer": "每单位体积；C/m²",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 36,
+    "question": "电偶极矩μ的定义式为（  ），方向规定为由（  ）指向（  ）。",
+    "options": [],
+    "answer": "μ=q·l；负电荷；正电荷",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 37,
+    "question": "束缚电荷是介质（  ）的宏观标志，它不能离开（  ）。",
+    "options": [],
+    "answer": "极化；电介质",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 38,
+    "question": "电介质的极化强度P与束缚电荷面密度σ'的关系为（  ）（当介质表面法线与电场方向平行时）。",
+    "options": [],
+    "answer": "P=σ'",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 39,
+    "question": "线性电介质的极化强度P与电场强度E的关系为（  ），其中χ是（  ）。",
+    "options": [],
+    "answer": "P=χε₀E；极化系数",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 40,
+    "question": "电位移矢量D的定义式为（  ），在各向同性电介质中，D与E的关系为（  ）。",
+    "options": [],
+    "answer": "D=ε₀E+P；D=ε₀εᵣE",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 41,
+    "question": "库仑定律的表达式为（  ），其中εᵣ是（  ），K是（  ）。",
+    "options": [],
+    "answer": "F=K·q₁q₂/(εᵣr²)·r₁₂；相对介电常数；比例常数",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 42,
+    "question": "电场强度E的定义式为（  ），单位是（  ）。",
+    "options": [],
+    "answer": "E=F/q；V/m（或N/C）",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 43,
+    "question": "电场叠加定理指出，空间某点的总电场强度是各个点电荷在该点产生的电场强度的（  ）和。",
+    "options": [],
+    "answer": "矢量",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 44,
+    "question": "电势φ的单位是（  ），与点电荷Q相距r处的电势表达式为（  ）。",
+    "options": [],
+    "answer": "伏特（V）；φ=Q/(4πε₀r)",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 45,
+    "question": "高斯定理在真空中的表达式为（  ），它表明闭合面的电通量等于该面所包围的电量代数和除以（  ）。",
+    "options": [],
+    "answer": "∮_S E·dS=Σqᵢ内/ε₀；真空介电常数ε₀",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 46,
+    "question": "无限大均匀带电平行极板在真空中的电场强度E=（  ），其中σ₀是（  ）。",
+    "options": [],
+    "answer": "σ₀/ε₀；电荷面密度",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 47,
+    "question": "有介质时的高斯定理表达式为（  ），其中D是（  ），Q是闭合面所包围的（  ）。",
+    "options": [],
+    "answer": "∮_S D·dS=Q；电位移矢量；自由电荷的代数和",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 48,
+    "question": "平行极板电容器的电容量公式为（  ），其中A是（  ），d是（  ）。",
+    "options": [],
+    "answer": "C=ε₀εᵣA/d；极板面积；极间距离",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 49,
+    "question": "电介质的介电常数ε是综合反映其（  ）行为的宏观物理量。",
+    "options": [],
+    "answer": "极化",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 50,
+    "question": "提高电介质介电常数的途径有（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "提高单位体积内的分子数N；选用分子极化率α大的质粒；选用内部有效电场Ei大的介质材料",
+    "type": "fill",
+    "section": "一、绪论部分"
+  },
+  {
+    "id": 1,
+    "question": "下列哪种极化机制是所有电介质在恒定电场中都会发生的（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子位移极化"
+      },
+      {
+        "label": "B",
+        "content": "离子位移极化"
+      },
+      {
+        "label": "C",
+        "content": "转向极化"
+      },
+      {
+        "label": "D",
+        "content": "空间电荷极化"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 2,
+    "question": "电子位移极化的物理本质是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极性分子定向排列"
+      },
+      {
+        "label": "B",
+        "content": "正负离子相对位移"
+      },
+      {
+        "label": "C",
+        "content": "电子云相对于原子核位移"
+      },
+      {
+        "label": "D",
+        "content": "空间电荷重新分布"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 3,
+    "question": "离子位移极化主要发生在（  ）中",
+    "options": [
+      {
+        "label": "A",
+        "content": "非极性液体"
+      },
+      {
+        "label": "B",
+        "content": "离子晶体"
+      },
+      {
+        "label": "C",
+        "content": "极性气体"
+      },
+      {
+        "label": "D",
+        "content": "非晶态固体"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 4,
+    "question": "转向极化的发生条件是电介质由（  ）组成",
+    "options": [
+      {
+        "label": "A",
+        "content": "非极性分子"
+      },
+      {
+        "label": "B",
+        "content": "极性分子"
+      },
+      {
+        "label": "C",
+        "content": "离子"
+      },
+      {
+        "label": "D",
+        "content": "电子"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 5,
+    "question": "空间电荷极化主要发生在（  ）中",
+    "options": [
+      {
+        "label": "A",
+        "content": "均匀介质"
+      },
+      {
+        "label": "B",
+        "content": "非均匀介质或有缺陷的介质"
+      },
+      {
+        "label": "C",
+        "content": "极性液体"
+      },
+      {
+        "label": "D",
+        "content": "气体介质"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 6,
+    "question": "极化率α是描述（  ）的微观物理量",
+    "options": [
+      {
+        "label": "A",
+        "content": "电介质的宏观极化特性"
+      },
+      {
+        "label": "B",
+        "content": "分子的极化能力"
+      },
+      {
+        "label": "C",
+        "content": "电场的强度"
+      },
+      {
+        "label": "D",
+        "content": "电荷的多少"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 7,
+    "question": "电子位移极化率αₑ与原子半径r的关系为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "αₑ与r成正比"
+      },
+      {
+        "label": "B",
+        "content": "αₑ与r²成正比"
+      },
+      {
+        "label": "C",
+        "content": "αₑ与r³成正比"
+      },
+      {
+        "label": "D",
+        "content": "αₑ与r无关"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 8,
+    "question": "对于同族元素，电子极化率αₑ的变化规律是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "自上而下增大"
+      },
+      {
+        "label": "B",
+        "content": "自上而下减小"
+      },
+      {
+        "label": "C",
+        "content": "无规律"
+      },
+      {
+        "label": "D",
+        "content": "保持不变"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 9,
+    "question": "在同一周期中，电子极化率αₑ的变化趋势取决于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子数增多和原子半径减小的竞争"
+      },
+      {
+        "label": "B",
+        "content": "仅电子数增多"
+      },
+      {
+        "label": "C",
+        "content": "仅原子半径减小"
+      },
+      {
+        "label": "D",
+        "content": "温度变化"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 10,
+    "question": "有效电场Ei是指（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "外加宏观电场"
+      },
+      {
+        "label": "B",
+        "content": "分子周围的局部电场"
+      },
+      {
+        "label": "C",
+        "content": "附加电场"
+      },
+      {
+        "label": "D",
+        "content": "极化电荷产生的电场"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 11,
+    "question": "洛仑兹模型用于计算（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "宏观电场"
+      },
+      {
+        "label": "B",
+        "content": "有效电场"
+      },
+      {
+        "label": "C",
+        "content": "极化强度"
+      },
+      {
+        "label": "D",
+        "content": "介电常数"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 12,
+    "question": "洛仑兹模型中，球外介质被视为（  ）的连续介质",
+    "options": [
+      {
+        "label": "A",
+        "content": "介电常数为1"
+      },
+      {
+        "label": "B",
+        "content": "介电常数为ε"
+      },
+      {
+        "label": "C",
+        "content": "电导率为0"
+      },
+      {
+        "label": "D",
+        "content": "极化率为0"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 13,
+    "question": "洛仑兹模型中，球的半径应满足（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "比分子间距离小"
+      },
+      {
+        "label": "B",
+        "content": "比电极间距离大"
+      },
+      {
+        "label": "C",
+        "content": "比分子间距离大且比电极间距离小"
+      },
+      {
+        "label": "D",
+        "content": "无限制"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 14,
+    "question": "对于具有立方点阵结构的离子晶体，洛仑兹模型中球内其他分子的作用电场E₂（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "等于0"
+      },
+      {
+        "label": "B",
+        "content": "大于0"
+      },
+      {
+        "label": "C",
+        "content": "小于0"
+      },
+      {
+        "label": "D",
+        "content": "无法确定"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 15,
+    "question": "洛仑兹场的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "Ei=E+P/(3ε₀)"
+      },
+      {
+        "label": "B",
+        "content": "Ei=E+P/ε₀"
+      },
+      {
+        "label": "C",
+        "content": "Ei=E-P/(3ε₀)"
+      },
+      {
+        "label": "D",
+        "content": "Ei=E-P/ε₀"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 16,
+    "question": "克劳修斯-莫索缔方程（克-莫方程）建立了（  ）之间的关系",
+    "options": [
+      {
+        "label": "A",
+        "content": "宏观介电常数与微观极化率"
+      },
+      {
+        "label": "B",
+        "content": "宏观电场与微观电场"
+      },
+      {
+        "label": "C",
+        "content": "极化强度与介电常数"
+      },
+      {
+        "label": "D",
+        "content": "电导率与介电常数"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 17,
+    "question": "克-莫方程的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "(ε-1)/(ε+2)=Nα/(3ε₀)"
+      },
+      {
+        "label": "B",
+        "content": "(ε+1)/(ε-2)=Nα/(3ε₀)"
+      },
+      {
+        "label": "C",
+        "content": "(ε-1)/(ε+2)=3Nα/ε₀"
+      },
+      {
+        "label": "D",
+        "content": "(ε+1)/(ε-2)=3Nα/ε₀"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 18,
+    "question": "非极性介质的极化率主要由（  ）贡献",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子位移极化率αₑ"
+      },
+      {
+        "label": "B",
+        "content": "离子位移极化率αᵢ"
+      },
+      {
+        "label": "C",
+        "content": "转向极化率α_d"
+      },
+      {
+        "label": "D",
+        "content": "空间电荷极化率αₛ"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 19,
+    "question": "对于非极性介质，光频介电常数ε∞与折射率n的关系为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "ε∞=n"
+      },
+      {
+        "label": "B",
+        "content": "ε∞=n²"
+      },
+      {
+        "label": "C",
+        "content": "ε∞=√n"
+      },
+      {
+        "label": "D",
+        "content": "ε∞=1/n"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 20,
+    "question": "洛仑兹-洛仑茨方程适用于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极性介质"
+      },
+      {
+        "label": "B",
+        "content": "非极性介质"
+      },
+      {
+        "label": "C",
+        "content": "离子晶体"
+      },
+      {
+        "label": "D",
+        "content": "极性液体"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 21,
+    "question": "介电常数温度系数βε的定义是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "温度每变化一度，介电常数的绝对变化量"
+      },
+      {
+        "label": "B",
+        "content": "温度每变化一度，介电常数的相对变化量"
+      },
+      {
+        "label": "C",
+        "content": "介电常数与温度的比值"
+      },
+      {
+        "label": "D",
+        "content": "温度与介电常数的比值"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 22,
+    "question": "非极性介质的介电常数温度系数βε通常为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "正值"
+      },
+      {
+        "label": "B",
+        "content": "负值"
+      },
+      {
+        "label": "C",
+        "content": "零"
+      },
+      {
+        "label": "D",
+        "content": "无法确定"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 23,
+    "question": "极性气体介质的极化率包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "仅电子位移极化率"
+      },
+      {
+        "label": "B",
+        "content": "电子位移极化率和转向极化率"
+      },
+      {
+        "label": "C",
+        "content": "仅离子位移极化率"
+      },
+      {
+        "label": "D",
+        "content": "离子位移极化率和空间电荷极化率"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 24,
+    "question": "德拜方程适用于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极性气体"
+      },
+      {
+        "label": "B",
+        "content": "极性液体"
+      },
+      {
+        "label": "C",
+        "content": "强极性液体"
+      },
+      {
+        "label": "D",
+        "content": "所有极性介质"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 25,
+    "question": "德拜方程中，转向极化率α_d的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "α_d=μ₀²/(3kT)"
+      },
+      {
+        "label": "B",
+        "content": "α_d=3μ₀²/(kT)"
+      },
+      {
+        "label": "C",
+        "content": "α_d=μ₀/(3kT)"
+      },
+      {
+        "label": "D",
+        "content": "α_d=3μ₀/(kT)"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 26,
+    "question": "离子晶体介质的极化率包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子位移极化率和离子位移极化率"
+      },
+      {
+        "label": "B",
+        "content": "仅电子位移极化率"
+      },
+      {
+        "label": "C",
+        "content": "仅离子位移极化率"
+      },
+      {
+        "label": "D",
+        "content": "转向极化率和空间电荷极化率"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 27,
+    "question": "克-莫方程中，克分子极化强度P_g的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "P_g=(ε-1)/(ε+2)·M/ρ"
+      },
+      {
+        "label": "B",
+        "content": "P_g=(ε+1)/(ε-2)·M/ρ"
+      },
+      {
+        "label": "C",
+        "content": "P_g=(ε-1)/(ε+2)·ρ/M"
+      },
+      {
+        "label": "D",
+        "content": "P_g=(ε+1)/(ε-2)·ρ/M"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 28,
+    "question": "阿佛加德罗常数N₀的数值约为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "6.06×10²³ mol⁻¹"
+      },
+      {
+        "label": "B",
+        "content": "6.06×10²¹ mol⁻¹"
+      },
+      {
+        "label": "C",
+        "content": "6.06×10²⁵ mol⁻¹"
+      },
+      {
+        "label": "D",
+        "content": "6.06×10²⁷ mol⁻¹"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 29,
+    "question": "若克分子极化强度P_g与温度T无关，则该介质的分子是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极性分子"
+      },
+      {
+        "label": "B",
+        "content": "非极性分子"
+      },
+      {
+        "label": "C",
+        "content": "离子分子"
+      },
+      {
+        "label": "D",
+        "content": "无法确定"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 30,
+    "question": "若克分子极化强度P_g与1/T成线性关系，则该介质的分子是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极性分子"
+      },
+      {
+        "label": "B",
+        "content": "非极性分子"
+      },
+      {
+        "label": "C",
+        "content": "离子分子"
+      },
+      {
+        "label": "D",
+        "content": "无法确定"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 31,
+    "question": "翁萨格模型用于计算（  ）的有效电场",
+    "options": [
+      {
+        "label": "A",
+        "content": "非极性液体"
+      },
+      {
+        "label": "B",
+        "content": "极性液体"
+      },
+      {
+        "label": "C",
+        "content": "气体介质"
+      },
+      {
+        "label": "D",
+        "content": "离子晶体"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 32,
+    "question": "翁萨格模型中，有效电场Ei由（  ）组成",
+    "options": [
+      {
+        "label": "A",
+        "content": "空腔电场G和反作用电场R"
+      },
+      {
+        "label": "B",
+        "content": "宏观电场E和附加电场E'"
+      },
+      {
+        "label": "C",
+        "content": "洛仑兹场和附加电场"
+      },
+      {
+        "label": "D",
+        "content": "局部电场和宏观电场"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 33,
+    "question": "翁萨格方程适用于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "强极性液体"
+      },
+      {
+        "label": "B",
+        "content": "一般极性液体"
+      },
+      {
+        "label": "C",
+        "content": "非极性液体"
+      },
+      {
+        "label": "D",
+        "content": "气体介质"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 34,
+    "question": "电子位移极化的模型不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "球状负电壳体模型"
+      },
+      {
+        "label": "B",
+        "content": "圆周轨道模型"
+      },
+      {
+        "label": "C",
+        "content": "偶极子转向模型"
+      },
+      {
+        "label": "D",
+        "content": "点状核模型"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 35,
+    "question": "球状负电壳体模型中，电子极化率αₑ的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "αₑ=4πε₀r³"
+      },
+      {
+        "label": "B",
+        "content": "αₑ=πε₀r³"
+      },
+      {
+        "label": "C",
+        "content": "αₑ=4πε₀r²"
+      },
+      {
+        "label": "D",
+        "content": "αₑ=πε₀r²"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 36,
+    "question": "离子位移极化中，正负离子间的回复力被视为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "库仑力"
+      },
+      {
+        "label": "B",
+        "content": "准弹性力"
+      },
+      {
+        "label": "C",
+        "content": "摩擦力"
+      },
+      {
+        "label": "D",
+        "content": "洛伦兹力"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 37,
+    "question": "离子位移极化率αᵢ与离子间的准弹性联系系数K的关系为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "αᵢ=q²/K"
+      },
+      {
+        "label": "B",
+        "content": "αᵢ=K/q²"
+      },
+      {
+        "label": "C",
+        "content": "αᵢ=q/K"
+      },
+      {
+        "label": "D",
+        "content": "αᵢ=K/q"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 38,
+    "question": "转向极化中，电场的作用是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "使电子云位移"
+      },
+      {
+        "label": "B",
+        "content": "使正负离子相对位移"
+      },
+      {
+        "label": "C",
+        "content": "使极性分子定向排列"
+      },
+      {
+        "label": "D",
+        "content": "使空间电荷移动"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 39,
+    "question": "转向极化的阻碍因素是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "库仑力"
+      },
+      {
+        "label": "B",
+        "content": "弹性力"
+      },
+      {
+        "label": "C",
+        "content": "分子热运动"
+      },
+      {
+        "label": "D",
+        "content": "洛伦兹力"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 40,
+    "question": "热离子极化（离子松驰极化）的载流子是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子"
+      },
+      {
+        "label": "B",
+        "content": "束缚较弱的离子"
+      },
+      {
+        "label": "C",
+        "content": "极性分子"
+      },
+      {
+        "label": "D",
+        "content": "空间电荷"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 41,
+    "question": "热离子极化的建立时间约为（  ）秒",
+    "options": [
+      {
+        "label": "A",
+        "content": "10^-14～10^-15"
+      },
+      {
+        "label": "B",
+        "content": "10^-12～10^-13"
+      },
+      {
+        "label": "C",
+        "content": "10^-6～10^-2"
+      },
+      {
+        "label": "D",
+        "content": "10^0～10^2"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 42,
+    "question": "热离子极化率α_T与温度T的关系为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "与T成正比"
+      },
+      {
+        "label": "B",
+        "content": "与T成反比"
+      },
+      {
+        "label": "C",
+        "content": "与T²成正比"
+      },
+      {
+        "label": "D",
+        "content": "与T²成反比"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 43,
+    "question": "空间电荷极化的建立时间（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极短"
+      },
+      {
+        "label": "B",
+        "content": "较短"
+      },
+      {
+        "label": "C",
+        "content": "较长"
+      },
+      {
+        "label": "D",
+        "content": "与电子位移极化相当"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 44,
+    "question": "双层介质的空间电荷极化发生在（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "介质内部"
+      },
+      {
+        "label": "B",
+        "content": "两层介质的分界面"
+      },
+      {
+        "label": "C",
+        "content": "电极表面"
+      },
+      {
+        "label": "D",
+        "content": "介质表面"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 45,
+    "question": "克-莫方程的应用条件是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "E₂=0"
+      },
+      {
+        "label": "B",
+        "content": "E₂≠0"
+      },
+      {
+        "label": "C",
+        "content": "任何情况"
+      },
+      {
+        "label": "D",
+        "content": "仅适用于气体介质"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 46,
+    "question": "下列哪种晶体结构的E₂=0（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "简立方"
+      },
+      {
+        "label": "B",
+        "content": "体心立方"
+      },
+      {
+        "label": "C",
+        "content": "面心立方"
+      },
+      {
+        "label": "D",
+        "content": "以上都是"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 47,
+    "question": "氯化钠型晶体的结构属于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "简立方"
+      },
+      {
+        "label": "B",
+        "content": "体心立方"
+      },
+      {
+        "label": "C",
+        "content": "面心立方"
+      },
+      {
+        "label": "D",
+        "content": "复杂立方"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 48,
+    "question": "电介质的极化强度P与介电常数ε的关系为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "P=ε₀(ε-1)E"
+      },
+      {
+        "label": "B",
+        "content": "P=ε₀(ε+1)E"
+      },
+      {
+        "label": "C",
+        "content": "P=ε(ε₀-1)E"
+      },
+      {
+        "label": "D",
+        "content": "P=ε(ε₀+1)E"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 49,
+    "question": "有效电场Ei与宏观电场E的关系为（  ）（洛仑兹场）",
+    "options": [
+      {
+        "label": "A",
+        "content": "Ei=E(ε+2)/3"
+      },
+      {
+        "label": "B",
+        "content": "Ei=E(ε-2)/3"
+      },
+      {
+        "label": "C",
+        "content": "Ei=3E/(ε+2)"
+      },
+      {
+        "label": "D",
+        "content": "Ei=3E/(ε-2)"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 50,
+    "question": "当电介质的介电常数ε>>1时，有效电场Ei约为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "E/3"
+      },
+      {
+        "label": "B",
+        "content": "2E/3"
+      },
+      {
+        "label": "C",
+        "content": "E"
+      },
+      {
+        "label": "D",
+        "content": "2E"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 1,
+    "question": "恒定电场中电介质的极化研究重点是电介质在（  ）作用下发生的（  ）过程。",
+    "options": [],
+    "answer": "恒定电场；电极化",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 2,
+    "question": "研究电介质极化的主要方法是从（  ）和（  ）两种角度分析其共同规律。",
+    "options": [],
+    "answer": "宏观；微观",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 3,
+    "question": "静电学基本定律包括（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "库仑定律；电场叠加定理；高斯定理",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 4,
+    "question": "电力线的起始于（  ）或（  ），终止于（  ）或（  ），不会在没有电荷处中断。",
+    "options": [],
+    "answer": "正电荷；无穷远处；负电荷；无穷远处",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 5,
+    "question": "电力线的性质包括（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "不中断；不相交；不闭合",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 6,
+    "question": "电通量的定义式为（  ），通过任意曲面的电通量表达式为（  ）。",
+    "options": [],
+    "answer": "dΦ=E·dS；Φ=∫_S E·dS",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 7,
+    "question": "闭合面的电通量规定面元方向由（  ）指向（  ），称为（  ）方向。",
+    "options": [],
+    "answer": "闭合面内；闭合面外；外法线",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 8,
+    "question": "有介质时，介质表面会出现（  ）电荷，它会产生（  ）电场，抵消一部分（  ）电荷的作用。",
+    "options": [],
+    "answer": "束缚；附加；自由",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 9,
+    "question": "电位移矢量D的单位是（  ），其物理意义是（  ）。",
+    "options": [],
+    "answer": "C/m²；描述电介质中电场与自由电荷的关系",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 10,
+    "question": "极化强度P的定义式为（  ），它是（  ）的宏观物理量。",
+    "options": [],
+    "answer": "P=lim(ΔV→0)Σμᵢ/ΔV；表征电介质极化强弱",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 11,
+    "question": "电偶极矩μ的大小等于（  ）与（  ）的乘积，单位是（  ）。",
+    "options": [],
+    "answer": "电荷量q；正负电荷间距l；C·m",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 12,
+    "question": "极化强度P与电场强度E的关系为（  ），其中χ称为（  ），其与相对介电常数的关系为（  ）。",
+    "options": [],
+    "answer": "P=χε₀E；极化系数；χ=εᵣ-1",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 13,
+    "question": "束缚电荷面密度σ'与极化强度P的关系为（  ），当θ=0时，σ'=（  ）。",
+    "options": [],
+    "answer": "σ'=Pcosθ；P",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 14,
+    "question": "有效电场Ei是作用在（  ）上的电场，它等于（  ）与（  ）的叠加。",
+    "options": [],
+    "answer": "分子；宏观电场；周围极化分子产生的附加电场",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 15,
+    "question": "洛仑兹模型中，将电介质中“割取”一个球，球心为（  ），球的半径比（  ）大，比（  ）小。",
+    "options": [],
+    "answer": "被考察分子；分子间距离；电极间距离",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 16,
+    "question": "洛仑兹模型中，球外介质的作用归结为（  ）电荷产生的电场E₁，球内其他分子的作用电场为（  ）。",
+    "options": [],
+    "answer": "球面束缚；E₂",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 17,
+    "question": "电场E₁的表达式为（  ），代入P=ε₀(ε-1)E后，E₁=（  ）。",
+    "options": [],
+    "answer": "E₁=P/(3ε₀)；E(ε-1)/3",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 18,
+    "question": "对于低气压气体、非极性液体和立方点阵结构的离子晶体，E₂=（  ），此时有效电场称为（  ）。",
+    "options": [],
+    "answer": "0；洛仑兹场",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 19,
+    "question": "洛仑兹场的表达式为（  ），代入P=ε₀(ε-1)E后，可化简为（  ）。",
+    "options": [],
+    "answer": "Ei=E+P/(3ε₀)；Ei=E(ε+2)/3",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 20,
+    "question": "克劳修斯-莫索缔方程的表达式为（  ），它将宏观参数（  ）与微观参数（  ）、（  ）联系起来。",
+    "options": [],
+    "answer": "(ε-1)/(ε+2)=Nα/(3ε₀)；介电常数ε；分子数密度N；分子极化率α",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 21,
+    "question": "非极性介质的极化率仅包含（  ），其克-莫方程简化为（  ）。",
+    "options": [],
+    "answer": "电子位移极化率αₑ；(ε∞-1)/(ε∞+2)=Nαₑ/(3ε₀)",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 22,
+    "question": "光频介电常数ε∞与折射率n的关系为（  ），这是因为（  ）极化能跟上光频电场的变化。",
+    "options": [],
+    "answer": "ε∞=n²；电子位移",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 23,
+    "question": "洛仑兹-洛仑茨方程的表达式为（  ），它适用于（  ）介质。",
+    "options": [],
+    "answer": "(n²-1)/(n²+2)=Nαₑ/(3ε₀)；非极性",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 24,
+    "question": "介电常数温度系数βε的定义式为（  ），其与体膨胀系数βᵥ的关系为（  ）。",
+    "options": [],
+    "answer": "βε=(1/ε∞)dε∞/dT；βε=-[(ε∞-1)(ε∞+2)/(3ε∞)]βᵥ",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 25,
+    "question": "极性气体介质的极化率包括（  ）和（  ），其克-莫方程表达式为（  ）。",
+    "options": [],
+    "answer": "电子位移极化率αₑ；转向极化率α_d；(ε-1)/(ε+2)=N(αₑ+α_d)/(3ε₀)",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 26,
+    "question": "德拜方程中，转向极化率α_d=（  ），其中μ₀是（  ），k是（  ），T是（  ）。",
+    "options": [],
+    "answer": "μ₀²/(3kT)；固有偶极矩；玻尔兹曼常数；绝对温度",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 27,
+    "question": "极性液体在非极性液体中的稀释溶液，其克-莫方程表达式为（  ），其中N₁、α₁分别是（  ）的分子密度和极化率。",
+    "options": [],
+    "answer": "(ε-1)/(ε+2)=(N₁α₁+N₂α₂)/(3ε₀)；溶剂",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 28,
+    "question": "离子晶体介质的极化率包括（  ）、（  ）和（  ），其克-莫方程表达式为（  ）。",
+    "options": [],
+    "answer": "正离子电子极化率αₑ+；负离子电子极化率αₑ-；离子位移极化率αᵢ；(ε-1)/(ε+2)=N(αₑ++αₑ-+αᵢ)/(3ε₀)",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 29,
+    "question": "克分子极化强度P_g的表达式为（  ），其中M是（  ），ρ是（  ）。",
+    "options": [],
+    "answer": "P_g=(ε-1)/(ε+2)·M/ρ；分子量；密度",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 30,
+    "question": "阿佛加德罗常数N₀=（  ）mol⁻¹，P_g与N₀的关系为（  ）。",
+    "options": [],
+    "answer": "6.06×10²³；P_g=N₀α/(3ε₀)",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 31,
+    "question": "非极性分子的P_g与温度（  ），极性分子的P_g与（  ）成线性关系。",
+    "options": [],
+    "answer": "无关；1/T",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 32,
+    "question": "翁萨格模型中，极性分子被视为半径为a的（  ），球内有一（  ）偶极子。",
+    "options": [],
+    "answer": "空心球；点",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 33,
+    "question": "翁萨格模型的有效电场Ei=（  ）+（  ），其中G是（  ），R是（  ）。",
+    "options": [],
+    "answer": "G；R；空腔电场；反作用电场",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 34,
+    "question": "空腔电场G的表达式为（  ），反作用电场R的表达式为（  ）。",
+    "options": [],
+    "answer": "G=3εE/(2ε+1)；R=(ε-1)μ/(2ε+1)·1/(4πε₀a³)",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 35,
+    "question": "翁萨格方程的表达式为（  ），它比德拜方程更适用于（  ）。",
+    "options": [],
+    "answer": "(ε-n²)(2ε+n²)/(ε(n²+2)²)=Nμ₀²/(9ε₀kT)；一般极性液体",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 36,
+    "question": "电子位移极化的两种模型是（  ）和（  ）。",
+    "options": [],
+    "answer": "球状负电壳体模型；圆周轨道模型",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 37,
+    "question": "球状负电壳体模型中，电子云半径为r，原子核电荷为+Q，在外电场Ei作用下，原子核位移x的平衡条件是（  ），电子极化率αₑ=（  ）。",
+    "options": [],
+    "answer": "QEi=Q²x/(4πε₀r³)；4πε₀r³",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 38,
+    "question": "圆周轨道模型中，电子极化率αₑ=（  ），其中K是（  ）。",
+    "options": [],
+    "answer": "q²/K；弹性联系系数",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 39,
+    "question": "电子极化率αₑ随原子半径r的增大而（  ），同族元素自上而下αₑ（  ）。",
+    "options": [],
+    "answer": "增大；增大",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 40,
+    "question": "离子位移极化中，正负离子的相对位移Δr满足（  ），离子极化率αᵢ=（  ）。",
+    "options": [],
+    "answer": "qEi=KΔr；q²/K",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 41,
+    "question": "离子晶体的弹性联系系数K可通过（  ）或（  ）方法求取。",
+    "options": [],
+    "answer": "固有谐振频率；离子间相互作用能量",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 42,
+    "question": "转向极化中，极性分子的固有偶极矩μ₀在电场作用下受到（  ）的作用，趋向于沿（  ）方向排列。",
+    "options": [],
+    "answer": "转动力矩；电场",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 43,
+    "question": "转向极化的平均偶极矩μ̄=（  ），当μ₀Ei<<kT时，μ̄=（  ）。",
+    "options": [],
+    "answer": "μ₀L(μ₀Ei/(kT))；μ₀²Ei/(3kT)",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 44,
+    "question": "热离子极化中，离子跃迁的条件是（  ），无电场时，离子跃迁方向（  ）。",
+    "options": [],
+    "answer": "热运动能量kT≥位垒U；无规则",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 45,
+    "question": "热离子极化的极化率α_T=（  ），其中q是（  ），δ是（  ）。",
+    "options": [],
+    "answer": "q²δ²/(12kT)；离子电荷；跃迁距离",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 46,
+    "question": "空间电荷极化是由于（  ）在电场作用下重新分布而产生的，主要发生在（  ）介质中。",
+    "options": [],
+    "answer": "空间电荷；非均匀",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 47,
+    "question": "双层介质的空间电荷极化中，电荷积聚在（  ），稳态时两层介质的（  ）相等。",
+    "options": [],
+    "answer": "分界面；传导电流密度",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 48,
+    "question": "电介质的极化率是各种极化机制极化率的（  ），即α=（  ）。",
+    "options": [],
+    "answer": "总和；αₑ+αᵢ+α_d+αₛ",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 49,
+    "question": "提高电介质介电常数的三种途径是（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "提高分子数密度N；选用α大的分子；增大有效电场Ei",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 50,
+    "question": "金红石（TiO₂）具有高介电常数的原因是其组成离子（  ）和（  ）具有高的极化率α，且内部有大的（  ）。",
+    "options": [],
+    "answer": "Ti⁴+；O²-；内电场",
+    "type": "fill",
+    "section": "二、恒定电场中的极化部分"
+  },
+  {
+    "id": 1,
+    "question": "实际电介质的电导是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "零"
+      },
+      {
+        "label": "B",
+        "content": "极小"
+      },
+      {
+        "label": "C",
+        "content": "极大"
+      },
+      {
+        "label": "D",
+        "content": "与导体相当"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 2,
+    "question": "电介质的电导率γ的单位是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "欧姆（Ω）"
+      },
+      {
+        "label": "B",
+        "content": "法拉（F）"
+      },
+      {
+        "label": "C",
+        "content": "西门子/米（S/m）"
+      },
+      {
+        "label": "D",
+        "content": "伏特（V）"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 3,
+    "question": "电介质的电阻率ρ与电导率γ的关系为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "ρ=γ"
+      },
+      {
+        "label": "B",
+        "content": "ρ=1/γ"
+      },
+      {
+        "label": "C",
+        "content": "ρ=γ²"
+      },
+      {
+        "label": "D",
+        "content": "ρ=1/γ²"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 4,
+    "question": "电介质的电阻率范围通常为（  ）Ω·m",
+    "options": [
+      {
+        "label": "A",
+        "content": "10⁻⁸～10⁻⁶"
+      },
+      {
+        "label": "B",
+        "content": "10⁶～10⁸"
+      },
+      {
+        "label": "C",
+        "content": "10⁹～10²²"
+      },
+      {
+        "label": "D",
+        "content": "10²²～10³⁰"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 5,
+    "question": "电介质的导电载流子主要是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子"
+      },
+      {
+        "label": "B",
+        "content": "空穴"
+      },
+      {
+        "label": "C",
+        "content": "离子"
+      },
+      {
+        "label": "D",
+        "content": "光子"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 6,
+    "question": "导体的导电载流子主要是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子"
+      },
+      {
+        "label": "B",
+        "content": "离子"
+      },
+      {
+        "label": "C",
+        "content": "空穴"
+      },
+      {
+        "label": "D",
+        "content": "光子"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 7,
+    "question": "电介质的电导率γ的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "γ=nqμ"
+      },
+      {
+        "label": "B",
+        "content": "γ=nq/μ"
+      },
+      {
+        "label": "C",
+        "content": "γ=μ/(nq)"
+      },
+      {
+        "label": "D",
+        "content": "γ=n/(qμ)"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 8,
+    "question": "迁移率μ的定义是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "单位电场下载流子的平均漂移速度"
+      },
+      {
+        "label": "B",
+        "content": "单位时间内载流子的位移"
+      },
+      {
+        "label": "C",
+        "content": "载流子的漂移速度"
+      },
+      {
+        "label": "D",
+        "content": "电场与载流子速度的比值"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 9,
+    "question": "迁移率μ的单位是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "m/s"
+      },
+      {
+        "label": "B",
+        "content": "m²/(V·s)"
+      },
+      {
+        "label": "C",
+        "content": "V·s/m²"
+      },
+      {
+        "label": "D",
+        "content": "s/m"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 10,
+    "question": "气体介质的电导载流子是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子"
+      },
+      {
+        "label": "B",
+        "content": "离子"
+      },
+      {
+        "label": "C",
+        "content": "正、负离子对"
+      },
+      {
+        "label": "D",
+        "content": "空穴"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 11,
+    "question": "气体介质中离子的生成方式不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "碰撞电离"
+      },
+      {
+        "label": "B",
+        "content": "光电离"
+      },
+      {
+        "label": "C",
+        "content": "热电离"
+      },
+      {
+        "label": "D",
+        "content": "扩散电离"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 12,
+    "question": "气体介质的体积电离是指电离发生在（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电极表面"
+      },
+      {
+        "label": "B",
+        "content": "气体体积内"
+      },
+      {
+        "label": "C",
+        "content": "介质表面"
+      },
+      {
+        "label": "D",
+        "content": "介质内部"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 13,
+    "question": "气体介质的表面电离是指电离发生在（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电极表面"
+      },
+      {
+        "label": "B",
+        "content": "气体体积内"
+      },
+      {
+        "label": "C",
+        "content": "介质表面"
+      },
+      {
+        "label": "D",
+        "content": "介质内部"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 14,
+    "question": "气体介质中，离子的生成速率N与复合速率N'的平衡关系为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "N>N'"
+      },
+      {
+        "label": "B",
+        "content": "N<N'"
+      },
+      {
+        "label": "C",
+        "content": "N=N'"
+      },
+      {
+        "label": "D",
+        "content": "无固定关系"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 15,
+    "question": "气体介质中离子复合速率N'的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "N'=ξn₊n₋"
+      },
+      {
+        "label": "B",
+        "content": "N'=ξ(n₊+n₋)"
+      },
+      {
+        "label": "C",
+        "content": "N'=ξn₊/n₋"
+      },
+      {
+        "label": "D",
+        "content": "N'=ξn₋/n₊"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 16,
+    "question": "空气的离子复合系数ξ约为（  ）m³/s",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.6×10⁻¹²"
+      },
+      {
+        "label": "B",
+        "content": "1.6×10⁻¹⁰"
+      },
+      {
+        "label": "C",
+        "content": "1.6×10⁻⁸"
+      },
+      {
+        "label": "D",
+        "content": "1.6×10⁻⁶"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 17,
+    "question": "气体介质的饱和电流密度j_s与（  ）无关",
+    "options": [
+      {
+        "label": "A",
+        "content": "电场强度E"
+      },
+      {
+        "label": "B",
+        "content": "离子生成速率N"
+      },
+      {
+        "label": "C",
+        "content": "极板间距d"
+      },
+      {
+        "label": "D",
+        "content": "载流子电荷q"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 18,
+    "question": "气体中离子的迁移率μ与（  ）有关",
+    "options": [
+      {
+        "label": "A",
+        "content": "离子质量"
+      },
+      {
+        "label": "B",
+        "content": "气体温度"
+      },
+      {
+        "label": "C",
+        "content": "气体压强"
+      },
+      {
+        "label": "D",
+        "content": "以上都是"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 19,
+    "question": "电子的迁移率比离子的迁移率（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "小"
+      },
+      {
+        "label": "B",
+        "content": "大"
+      },
+      {
+        "label": "C",
+        "content": "相等"
+      },
+      {
+        "label": "D",
+        "content": "无法比较"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 20,
+    "question": "液体介质的电导载流子主要是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子"
+      },
+      {
+        "label": "B",
+        "content": "离子和带电胶粒"
+      },
+      {
+        "label": "C",
+        "content": "空穴"
+      },
+      {
+        "label": "D",
+        "content": "光子"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 21,
+    "question": "液体介质的离子电导分为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "本征离子电导和杂质离子电导"
+      },
+      {
+        "label": "B",
+        "content": "电子电导和空穴电导"
+      },
+      {
+        "label": "C",
+        "content": "迁移电导和扩散电导"
+      },
+      {
+        "label": "D",
+        "content": "体积电导和表面电导"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 22,
+    "question": "液体介质的本征离子电导是由（  ）产生的",
+    "options": [
+      {
+        "label": "A",
+        "content": "杂质分子离解"
+      },
+      {
+        "label": "B",
+        "content": "液体分子热离解"
+      },
+      {
+        "label": "C",
+        "content": "空间电荷移动"
+      },
+      {
+        "label": "D",
+        "content": "带电胶粒移动"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 23,
+    "question": "液体介质的杂质离子电导是由（  ）产生的",
+    "options": [
+      {
+        "label": "A",
+        "content": "液体分子热离解"
+      },
+      {
+        "label": "B",
+        "content": "杂质分子离解"
+      },
+      {
+        "label": "C",
+        "content": "带电胶粒移动"
+      },
+      {
+        "label": "D",
+        "content": "电子移动"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 24,
+    "question": "液体介质的电泳电导是由（  ）的移动产生的",
+    "options": [
+      {
+        "label": "A",
+        "content": "离子"
+      },
+      {
+        "label": "B",
+        "content": "电子"
+      },
+      {
+        "label": "C",
+        "content": "带电胶粒"
+      },
+      {
+        "label": "D",
+        "content": "空间电荷"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 25,
+    "question": "斯托克斯定律中，胶粒在液体中运动受到的摩擦力F'=（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "6πrηv"
+      },
+      {
+        "label": "B",
+        "content": "6πηrv"
+      },
+      {
+        "label": "C",
+        "content": "πrηv/6"
+      },
+      {
+        "label": "D",
+        "content": "ηrv/6π"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 26,
+    "question": "电泳电导的电导率γ与液体粘度η的关系为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "γ与η成正比"
+      },
+      {
+        "label": "B",
+        "content": "γ与η成反比"
+      },
+      {
+        "label": "C",
+        "content": "γ与η无关"
+      },
+      {
+        "label": "D",
+        "content": "γ与η²成正比"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 27,
+    "question": "华尔顿定律指出，电泳电导的（  ）与粘度的乘积为定值",
+    "options": [
+      {
+        "label": "A",
+        "content": "介电常数"
+      },
+      {
+        "label": "B",
+        "content": "电导率"
+      },
+      {
+        "label": "C",
+        "content": "迁移率"
+      },
+      {
+        "label": "D",
+        "content": "载流子浓度"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 28,
+    "question": "固体介质的电导分为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子电导和离子电导"
+      },
+      {
+        "label": "B",
+        "content": "本征电导和杂质电导"
+      },
+      {
+        "label": "C",
+        "content": "体积电导和表面电导"
+      },
+      {
+        "label": "D",
+        "content": "迁移电导和扩散电导"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 29,
+    "question": "判断固体介质导电载流子是离子还是电子的方法是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "欧姆定律"
+      },
+      {
+        "label": "B",
+        "content": "法拉第电解效应或霍尔效应"
+      },
+      {
+        "label": "C",
+        "content": "高斯定理"
+      },
+      {
+        "label": "D",
+        "content": "库仑定律"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 30,
+    "question": "晶体介质的本征离子电导是由（  ）产生的",
+    "options": [
+      {
+        "label": "A",
+        "content": "杂质离子"
+      },
+      {
+        "label": "B",
+        "content": "热缺陷"
+      },
+      {
+        "label": "C",
+        "content": "空间电荷"
+      },
+      {
+        "label": "D",
+        "content": "电子"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 31,
+    "question": "晶体的肖特基缺陷是指（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "离子离开晶格形成空位"
+      },
+      {
+        "label": "B",
+        "content": "离子进入晶格间隙形成填隙离子和空位"
+      },
+      {
+        "label": "C",
+        "content": "杂质离子取代晶格离子"
+      },
+      {
+        "label": "D",
+        "content": "电子脱离离子"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 32,
+    "question": "晶体的弗仑凯尔缺陷是指（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "离子离开晶格形成空位"
+      },
+      {
+        "label": "B",
+        "content": "离子进入晶格间隙形成填隙离子和空位"
+      },
+      {
+        "label": "C",
+        "content": "杂质离子取代晶格离子"
+      },
+      {
+        "label": "D",
+        "content": "电子脱离离子"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 33,
+    "question": "肖特基缺陷的浓度n_s的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "n_s=Ne^(-U_s/(kT))"
+      },
+      {
+        "label": "B",
+        "content": "n_s=Ne^(U_s/(kT))"
+      },
+      {
+        "label": "C",
+        "content": "n_s=√(NN')e^(-U_f/(2kT))"
+      },
+      {
+        "label": "D",
+        "content": "n_s=√(NN')e^(U_f/(2kT))"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 34,
+    "question": "弗仑凯尔缺陷的浓度n_f的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "n_f=Ne^(-U_s/(kT))"
+      },
+      {
+        "label": "B",
+        "content": "n_f=Ne^(U_s/(kT))"
+      },
+      {
+        "label": "C",
+        "content": "n_f=√(NN')e^(-U_f/(2kT))"
+      },
+      {
+        "label": "D",
+        "content": "n_f=√(NN')e^(U_f/(2kT))"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 35,
+    "question": "晶体结构紧密时，容易形成（  ）缺陷",
+    "options": [
+      {
+        "label": "A",
+        "content": "肖特基"
+      },
+      {
+        "label": "B",
+        "content": "弗仑凯尔"
+      },
+      {
+        "label": "C",
+        "content": "杂质"
+      },
+      {
+        "label": "D",
+        "content": "电子"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 36,
+    "question": "晶体结构松散时，容易形成（  ）缺陷",
+    "options": [
+      {
+        "label": "A",
+        "content": "肖特基"
+      },
+      {
+        "label": "B",
+        "content": "弗仑凯尔"
+      },
+      {
+        "label": "C",
+        "content": "杂质"
+      },
+      {
+        "label": "D",
+        "content": "电子"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 37,
+    "question": "固体介质的杂质离子电导在（  ）温度下占主导",
+    "options": [
+      {
+        "label": "A",
+        "content": "高温"
+      },
+      {
+        "label": "B",
+        "content": "低温"
+      },
+      {
+        "label": "C",
+        "content": "任何"
+      },
+      {
+        "label": "D",
+        "content": "室温"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 38,
+    "question": "固体介质的本征离子电导在（  ）温度下占主导",
+    "options": [
+      {
+        "label": "A",
+        "content": "高温"
+      },
+      {
+        "label": "B",
+        "content": "低温"
+      },
+      {
+        "label": "C",
+        "content": "任何"
+      },
+      {
+        "label": "D",
+        "content": "室温"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 39,
+    "question": "无机玻璃的电导主要由（  ）引起",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子"
+      },
+      {
+        "label": "B",
+        "content": "二价金属离子"
+      },
+      {
+        "label": "C",
+        "content": "一价金属离子"
+      },
+      {
+        "label": "D",
+        "content": "空间电荷"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 40,
+    "question": "玻璃中的“中和效应”是指（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "加入二价金属氧化物使电导率减小"
+      },
+      {
+        "label": "B",
+        "content": "用一种碱金属氧化物部分取代另一种使电导率最低"
+      },
+      {
+        "label": "C",
+        "content": "加入一价金属氧化物使电导率增大"
+      },
+      {
+        "label": "D",
+        "content": "去除杂质使电导率减小"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 41,
+    "question": "玻璃中的“压抑效应”是指（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "加入二价金属氧化物使电导率减小"
+      },
+      {
+        "label": "B",
+        "content": "用一种碱金属氧化物部分取代另一种使电导率最低"
+      },
+      {
+        "label": "C",
+        "content": "加入一价金属氧化物使电导率增大"
+      },
+      {
+        "label": "D",
+        "content": "去除杂质使电导率减小"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 42,
+    "question": "固体介质的表面电导是指电流流过（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "介质内部"
+      },
+      {
+        "label": "B",
+        "content": "介质表面"
+      },
+      {
+        "label": "C",
+        "content": "电极表面"
+      },
+      {
+        "label": "D",
+        "content": "介质与电极的分界面"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 43,
+    "question": "影响固体介质表面电导率的主要因素不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "表面吸附水膜"
+      },
+      {
+        "label": "B",
+        "content": "表面清洁程度"
+      },
+      {
+        "label": "C",
+        "content": "介质内部结构"
+      },
+      {
+        "label": "D",
+        "content": "介质表面性质"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 44,
+    "question": "亲水介质的接触角θ（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "<90°"
+      },
+      {
+        "label": "B",
+        "content": ">90°"
+      },
+      {
+        "label": "C",
+        "content": "=90°"
+      },
+      {
+        "label": "D",
+        "content": "=180°"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 45,
+    "question": "疏水介质的接触角θ（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "<90°"
+      },
+      {
+        "label": "B",
+        "content": ">90°"
+      },
+      {
+        "label": "C",
+        "content": "=90°"
+      },
+      {
+        "label": "D",
+        "content": "=180°"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 46,
+    "question": "水的电阻率约为（  ）Ω·m",
+    "options": [
+      {
+        "label": "A",
+        "content": "10⁵"
+      },
+      {
+        "label": "B",
+        "content": "10⁷"
+      },
+      {
+        "label": "C",
+        "content": "10⁹"
+      },
+      {
+        "label": "D",
+        "content": "10¹¹"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 47,
+    "question": "直流电场下，电介质的能量损耗主要转化为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "磁能"
+      },
+      {
+        "label": "B",
+        "content": "热能"
+      },
+      {
+        "label": "C",
+        "content": "光能"
+      },
+      {
+        "label": "D",
+        "content": "机械能"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 48,
+    "question": "直流电场下，电介质的功率损耗P=（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "UI"
+      },
+      {
+        "label": "B",
+        "content": "I²R"
+      },
+      {
+        "label": "C",
+        "content": "U²/R"
+      },
+      {
+        "label": "D",
+        "content": "以上都是"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 49,
+    "question": "绝缘电阻R的定义式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "R=U/I"
+      },
+      {
+        "label": "B",
+        "content": "R=I/U"
+      },
+      {
+        "label": "C",
+        "content": "R=UI"
+      },
+      {
+        "label": "D",
+        "content": "R=U²/I"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 50,
+    "question": "工程上规定，测量绝缘电阻时，加电压后经（  ）分钟测定电流值",
+    "options": [
+      {
+        "label": "A",
+        "content": "1"
+      },
+      {
+        "label": "B",
+        "content": "5"
+      },
+      {
+        "label": "C",
+        "content": "10"
+      },
+      {
+        "label": "D",
+        "content": "30"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 1,
+    "question": "实际电介质并非理想绝缘体，在恒定电场作用下会产生（  ）电流，反映这一特性的参数是（  ）或（  ）。",
+    "options": [],
+    "answer": "传导；电导率γ；电阻率ρ",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 2,
+    "question": "电介质的电导分为（  ）和（  ），分别由（  ）和（  ）的电流决定。",
+    "options": [],
+    "answer": "体积电导；表面电导；流过介质体积；流过介质表面",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 3,
+    "question": "欧姆定律的电流密度形式为（  ），其中j是（  ），E是（  ）。",
+    "options": [],
+    "answer": "j=γE；电流密度；电场强度",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 4,
+    "question": "电导率的普遍表达式为（  ），其中n是（  ），q是（  ），μ是（  ）。",
+    "options": [],
+    "answer": "γ=nqμ；单位体积内载流子数；载流子电荷量；载流子迁移率",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 5,
+    "question": "迁移率μ的定义是（  ），单位是（  ）。",
+    "options": [],
+    "answer": "单位场强下载流子的平均漂移速度；m²/(V·s)",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 6,
+    "question": "若介质中有m种载流子，总电导率γ=（  ），总电流密度j=（  ）。",
+    "options": [],
+    "answer": "Σnᵢqᵢμᵢ；ΣnᵢqᵢμᵢE",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 7,
+    "question": "电介质的电阻率ρ=（  ），单位是（  ），其范围通常为（  ）Ω·m。",
+    "options": [],
+    "answer": "1/γ；欧姆·米（Ω·m）；10⁹～10²²",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 8,
+    "question": "半导体的禁带宽度约为（  ）eV，电介质的禁带宽度约为（  ）eV。",
+    "options": [],
+    "answer": "0.5～1.5；1.5～7",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 9,
+    "question": "气体介质的电导载流子是（  ），其生成方式主要是（  ）。",
+    "options": [],
+    "answer": "正、负离子对；电离",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 10,
+    "question": "气体的电离分为（  ）和（  ），分别发生在（  ）和（  ）。",
+    "options": [],
+    "answer": "体积电离；表面电离；气体体积内；电极表面",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 11,
+    "question": "体积电离的过程包括（  ）和（  ），表面电离的电流主要与（  ）有关。",
+    "options": [],
+    "answer": "气体分子失去电子形成正离子和电子；电子与分子碰撞形成负离子；电极金属的特性",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 12,
+    "question": "气体中离子的动态平衡是指（  ）等于（  ），即（  ）。",
+    "options": [],
+    "answer": "离子生成速率N；离子复合速率N'；N=N'",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 13,
+    "question": "离子复合速率N'的表达式为（  ），当n₊=n₋=n时，N'=（  ）。",
+    "options": [],
+    "answer": "N'=ξn₊n₋；ξn²",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 14,
+    "question": "气体介质加电场后，平衡关系变为（  ），其中N''是（  ）。",
+    "options": [],
+    "answer": "N=N'+N''；单位体积内单位时间到达极板复合的离子数",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 15,
+    "question": "气体的饱和电流密度j_s=（  ），饱和电流I_s=（  ）。",
+    "options": [],
+    "answer": "Nqd；NqdS",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 16,
+    "question": "气体中离子的迁移率μ与（  ）、（  ）和（  ）有关，其表达式为（  ）（麦克斯韦分布）。",
+    "options": [],
+    "answer": "离子电荷；平均自由行程；气体温度；μ=0.69qλ/(√(3RTM))",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 17,
+    "question": "电子的迁移率比离子（  ），当电子吸附在分子上成为负离子时，迁移率（  ）。",
+    "options": [],
+    "answer": "大得多；大大下降",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 18,
+    "question": "液体介质的电导载流子主要有（  ）和（  ），相应的电导分为（  ）和（  ）。",
+    "options": [],
+    "answer": "离子；带电胶粒；离子电导；电泳电导",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 19,
+    "question": "液体的离子电导分为（  ）和（  ），分别由（  ）和（  ）离解产生。",
+    "options": [],
+    "answer": "本征离子电导；杂质离子电导；液体分子热；杂质分子",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 20,
+    "question": "液体中离子的迁移机理是（  ），离子跃迁的条件是（  ）。",
+    "options": [],
+    "answer": "热离子电导；热运动能量≥位垒U",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 21,
+    "question": "液体离子电导率的表达式为（  ），其与温度的关系呈（  ）规律。",
+    "options": [],
+    "answer": "γ=γ₀e^(-U₀/(kT))；指数",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 22,
+    "question": "液体介质的电泳电导中，胶粒带电的原因是（  ），其迁移率μ=（  ）（斯托克斯定律）。",
+    "options": [],
+    "answer": "吸附离子；q/(6πrη)",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 23,
+    "question": "华尔顿定律指出，电泳电导的（  ）与（  ）的乘积为定值。",
+    "options": [],
+    "answer": "电导率γ；粘度η",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 24,
+    "question": "固体介质的电导分为（  ）和（  ），分别由（  ）和（  ）的移动引起。",
+    "options": [],
+    "answer": "电子电导；离子电导；电子；离子",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 25,
+    "question": "法拉第电解效应是（  ）导电的特征，霍尔效应是（  ）导电的特征。",
+    "options": [],
+    "answer": "离子；电子",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 26,
+    "question": "晶体介质的本征离子电导由（  ）产生，主要缺陷类型有（  ）和（  ）。",
+    "options": [],
+    "answer": "热缺陷；肖特基缺陷；弗仑凯尔缺陷",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 27,
+    "question": "肖特基缺陷是指（  ），其浓度n_s=（  ）；弗仑凯尔缺陷是指（  ），其浓度n_f=（  ）。",
+    "options": [],
+    "answer": "离子离开晶格形成空位；Ne^(-U_s/(kT))；离子进入晶格间隙形成填隙离子和空位；√(NN')e^(-U_f/(2kT))",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 28,
+    "question": "晶体结构紧密时，易形成（  ）缺陷；结构松散时，易形成（  ）缺陷。",
+    "options": [],
+    "answer": "肖特基；弗仑凯尔",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 29,
+    "question": "晶体介质的杂质离子电导在（  ）温度下占主导，本征离子电导在（  ）温度下占主导。",
+    "options": [],
+    "answer": "低；高",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 30,
+    "question": "无定形固体电介质包括（  ）和（  ），其电导主要与（  ）有关。",
+    "options": [],
+    "answer": "玻璃；高分子材料；组成和结构",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 31,
+    "question": "无机玻璃的主要成分是（  ），加入（  ）会使电导大幅度上升，加入（  ）对电导影响较小。",
+    "options": [],
+    "answer": "氧化物（如SiO₂、B₂O₃）；一价金属氧化物（如Na₂O、Li₂O）；二价金属氧化物（如CaO、BaO）",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 32,
+    "question": "玻璃中的“中和效应”是指（  ），“压抑效应”是指（  ）。",
+    "options": [],
+    "answer": "用一种碱金属氧化物部分取代另一种，在某一比例下电导率最低；加入二价碱土金属氧化物使电导率减小",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 33,
+    "question": "固体介质的表面电导是指电流流过（  ），其表面电导率γ_s的单位是（  ）。",
+    "options": [],
+    "answer": "介质表面；西门子（S）",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 34,
+    "question": "影响表面电导率的因素有（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "表面吸附水膜；表面清洁程度；介质表面性质",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 35,
+    "question": "亲水介质的接触角θ（  ），易形成（  ）水膜；疏水介质的接触角θ（  ），水膜呈（  ）。",
+    "options": [],
+    "answer": "<90°；连续；>90°；孤立水滴",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 36,
+    "question": "直流电场下，电介质的能量损耗P=（  ）=（  ）=（  ），损耗能量转化为（  ）。",
+    "options": [],
+    "answer": "UI；I²R；U²/R；热能",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 37,
+    "question": "绝缘电阻R的定义式为（  ），工程上规定加电压后经（  ）分钟测量电流值。",
+    "options": [],
+    "answer": "R=U/I；1",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 38,
+    "question": "体积绝缘电阻的计算公式为（  ），其中ρ_v是（  ），d是（  ），S是（  ）。",
+    "options": [],
+    "answer": "R_v=ρ_vd/S；体积电阻率；介质厚度；极板面积",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 39,
+    "question": "表面绝缘电阻的计算公式为（  ），其中ρ_s是（  ），l是（  ），b是（  ）。",
+    "options": [],
+    "answer": "R_s=ρ_sl/b；表面电阻率；电极长度；电极间距",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 40,
+    "question": "电介质的漏电流包括（  ）和（  ），其大小与（  ）、（  ）和（  ）有关。",
+    "options": [],
+    "answer": "体积漏电流；表面漏电流；介质材料；温度；湿度",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 41,
+    "question": "气体介质在常温常压下，单位体积内每秒产生的离子对数量约为（  ）m⁻³·s⁻¹，空气的饱和电流密度约为（  ）A·m⁻²。",
+    "options": [],
+    "answer": "4×10⁶；6.4×10⁻¹⁵",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 42,
+    "question": "液体介质的本征离子电导在（  ）液体中明显存在，杂质离子电导是工程液体介质的（  ）电导来源。",
+    "options": [],
+    "answer": "强极性；主要",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 43,
+    "question": "电泳电导中，胶粒带电的原因是（ ），其迁移率 μ 与（ ）无关，仅与（ ）、（ ）和（ ）有关。",
+    "options": [],
+    "answer": "吸附离子；胶粒半径；离子电荷；液体粘度；电场强度",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 44,
+    "question": "华尔顿定律指出，电泳电导的（ ）与（ ）的乘积为定值，该定值与（ ）无关。",
+    "options": [],
+    "answer": "电导率；粘度；温度",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 45,
+    "question": "固体介质的电导按载流子类型分为（ ）和（ ），分别由（ ）和（ ）的移动引起。",
+    "options": [],
+    "answer": "电子电导；离子电导；电子；离子",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 46,
+    "question": "判断固体介质导电载流子类型的方法有（ ）和（ ），其中（ ）是离子导电的特征，（ ）是电子导电的特征。",
+    "options": [],
+    "answer": "法拉第电解效应；霍尔效应；法拉第电解效应；霍尔效应",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 47,
+    "question": "晶体介质的本征离子电导由（ ）产生，主要缺陷类型有（ ）和（ ），其中（ ）缺陷的载流子是离子空位，（ ）缺陷的载流子是填隙离子和离子空位。",
+    "options": [],
+    "answer": "热缺陷；肖特基缺陷；弗仑凯尔缺陷；肖特基；弗仑凯尔",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 48,
+    "question": "肖特基缺陷浓度 nₛ的表达式为（ ），弗仑凯尔缺陷浓度 nբ的表达式为（ ），二者均与温度呈（ ）关系。",
+    "options": [],
+    "answer": "nₛ=Ne^(-Uₛ/(kT))；nբ=√(NN') e^(-Uբ/(2kT))；指数",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 49,
+    "question": "晶体结构紧密时易形成（ ）缺陷，结构松散时易形成（ ）缺陷，这是因为前者的（ ）远小于后者的（ ）。",
+    "options": [],
+    "answer": "肖特基；弗仑凯尔；形成能 Uₛ；形成能 Uբ",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 50,
+    "question": "无机玻璃的主要成分是（ ），加入（ ）会使玻璃电导大幅上升，加入（ ）对电导影响较小，“中和效应” 是指（ ），“压抑效应” 是指（ ）。",
+    "options": [],
+    "answer": "氧化物（如 SiO₂、B₂O₃）；一价金属氧化物（如 Na₂O、Li₂O）；二价金属氧化物（如 CaO、BaO）；用一种碱金属氧化物部分取代另一种，在某一比例下电导率最低；加入二价碱土金属氧化物使电导率减小",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 51,
+    "question": "固体介质的表面电导是指电流流过（ ），表面电导率 γₛ的单位是（ ），其大小主要取决于（ ）、（ ）和（ ）。",
+    "options": [],
+    "answer": "介质表面；西门子（S）；表面吸附水膜；表面清洁程度；介质表面性质",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 52,
+    "question": "亲水介质的接触角 θ（ ），易形成（ ）水膜；疏水介质的接触角 θ（ ），水膜呈（ ），空气湿度对（ ）介质的表面电导率影响更敏感。",
+    "options": [],
+    "answer": "<90°；连续；>90°；孤立水滴；亲水",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 53,
+    "question": "直流电场下，电介质的能量损耗主要转化为（ ），功率损耗 P 的表达式为（ ）=（ ）=（ ）。",
+    "options": [],
+    "answer": "热能；UI；I²R；U²/R",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 54,
+    "question": "绝缘电阻 R 的定义式为（ ），工程上规定加电压后经（ ）分钟测量电流值来确定绝缘电阻。",
+    "options": [],
+    "answer": "R=U/I；1",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 55,
+    "question": "体积绝缘电阻的计算公式为（ ），其中 ρᵥ是（ ），d 是（ ），S 是（ ）；表面绝缘电阻的计算公式为（ ），其中 ρₛ是（ ），l 是（ ），b 是（ ）。",
+    "options": [],
+    "answer": "Rᵥ=ρᵥd/S；体积电阻率；介质厚度；极板面积；Rₛ=ρₛl/b；表面电阻率；电极长度；电极间距",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 56,
+    "question": "电介质的漏电流包括（ ）和（ ），其大小与（ ）、（ ）和（ ）有关。",
+    "options": [],
+    "answer": "体积漏电流；表面漏电流；介质材料；温度；湿度",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 57,
+    "question": "气体介质在常温常压下，单位体积内每秒产生的离子对数量约为（ ）m⁻³·s⁻¹，空气的饱和电流密度约为（ ）A·m⁻²。",
+    "options": [],
+    "answer": "4×10⁶；6.4×10⁻¹⁵",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 58,
+    "question": "液体介质的本征离子电导在（ ）液体中明显存在，杂质离子电导是工程液体介质的（ ）电导来源，可通过（ ）等吸附剂去除杂质离子。",
+    "options": [],
+    "answer": "强极性；主要；白土、硅胶、活性碳",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 59,
+    "question": "电泳电导对液体电导率的影响常（ ）离子性电导，即使（ ）时也很显著，例如水在变压器油中呈（ ）状态时，电导率远大于溶解状态。",
+    "options": [],
+    "answer": "高于；胶粒含量很少；乳化",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 60,
+    "question": "固体介质的电子电导与离子电导的本质区别是（ ），离子电导伴随（ ），电子电导则无此现象。",
+    "options": [],
+    "answer": "载流子不同；物质迁移",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 1,
+    "question": "交变电场中，电介质的特性参数是（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "介电常数 ε"
+      },
+      {
+        "label": "B",
+        "content": "复介电常数 ε*"
+      },
+      {
+        "label": "C",
+        "content": "电阻率 ρ"
+      },
+      {
+        "label": "D",
+        "content": "电导率 γ"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 2,
+    "question": "复介电常数 ε的表达式为（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "ε=ε′+iε″"
+      },
+      {
+        "label": "B",
+        "content": "ε*=ε′-iε″"
+      },
+      {
+        "label": "C",
+        "content": "ε*=ε+iγ"
+      },
+      {
+        "label": "D",
+        "content": "ε*=ε-iγ"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 3,
+    "question": "复介电常数的实部 ε′对应（ ），虚部 ε″对应（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "损耗项；电容项"
+      },
+      {
+        "label": "B",
+        "content": "电容项；损耗项"
+      },
+      {
+        "label": "C",
+        "content": "电导项；极化项"
+      },
+      {
+        "label": "D",
+        "content": "极化项；电导项"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 4,
+    "question": "复相对介电常数 εᵣ的表达式为（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "εᵣ=εᵣ′+iεᵣ″"
+      },
+      {
+        "label": "B",
+        "content": "εᵣ*=εᵣ′-iεᵣ″"
+      },
+      {
+        "label": "C",
+        "content": "εᵣ*=εᵣ+iγ"
+      },
+      {
+        "label": "D",
+        "content": "εᵣ*=εᵣ-iγ"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 4,
+    "question": "介质损耗角 δ 是（ ）与（ ）之间的夹角",
+    "options": [
+      {
+        "label": "A",
+        "content": "电容电流；合成电流"
+      },
+      {
+        "label": "B",
+        "content": "损耗电流；合成电流"
+      },
+      {
+        "label": "C",
+        "content": "电容电流；损耗电流"
+      },
+      {
+        "label": "D",
+        "content": "电场；电流"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 5,
+    "question": "介质损耗角正切 tgδ 的表达式为（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "tgδ=ε′/ε″"
+      },
+      {
+        "label": "B",
+        "content": "tgδ=ε″/ε′"
+      },
+      {
+        "label": "C",
+        "content": "tgδ=γ/ε"
+      },
+      {
+        "label": "D",
+        "content": "tgδ=ε/γ"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 6,
+    "question": "损耗因子是指（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "ε′"
+      },
+      {
+        "label": "B",
+        "content": "ε″"
+      },
+      {
+        "label": "C",
+        "content": "tgδ"
+      },
+      {
+        "label": "D",
+        "content": "γ"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 7,
+    "question": "当 ω→0 时，复介电常数的实部 ε′趋近于（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "光频介电常数 ε∞"
+      },
+      {
+        "label": "B",
+        "content": "静态介电常数 εₛ"
+      },
+      {
+        "label": "C",
+        "content": "零"
+      },
+      {
+        "label": "D",
+        "content": "无穷大"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 8,
+    "question": "电磁波在介质中的传播速度 v 与真空中光速 c 的关系为（ ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "v=c/√(εᵣμᵣ)"
+      },
+      {
+        "label": "B",
+        "content": "v=c√(εᵣμᵣ)"
+      },
+      {
+        "label": "C",
+        "content": "v=cεᵣμᵣ"
+      },
+      {
+        "label": "D",
+        "content": "v=c/(εᵣμᵣ)"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 11,
+    "question": "复介电常数的实部ε′反映电介质的（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "能量损耗"
+      },
+      {
+        "label": "B",
+        "content": "极化能力"
+      },
+      {
+        "label": "C",
+        "content": "电导特性"
+      },
+      {
+        "label": "D",
+        "content": "击穿强度"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 12,
+    "question": "复介电常数的虚部ε″反映电介质的（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "能量损耗"
+      },
+      {
+        "label": "B",
+        "content": "极化能力"
+      },
+      {
+        "label": "C",
+        "content": "绝缘性能"
+      },
+      {
+        "label": "D",
+        "content": "储能能力"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 13,
+    "question": "介质损耗角δ是（  ）之间的相位差",
+    "options": [
+      {
+        "label": "A",
+        "content": "电场E与电位移D"
+      },
+      {
+        "label": "B",
+        "content": "电场E与电流I"
+      },
+      {
+        "label": "C",
+        "content": "电位移D与电流I"
+      },
+      {
+        "label": "D",
+        "content": "电压U与电流I"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 14,
+    "question": "介质损耗角正切tgδ的物理意义是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "储能与损耗的比值"
+      },
+      {
+        "label": "B",
+        "content": "损耗与储能的比值"
+      },
+      {
+        "label": "C",
+        "content": "极化强度与电场强度的比值"
+      },
+      {
+        "label": "D",
+        "content": "电场强度与极化强度的比值"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 15,
+    "question": "当电场频率ω→∞时，复介电常数的实部ε′趋近于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "静态介电常数εₛ"
+      },
+      {
+        "label": "B",
+        "content": "光频介电常数ε∞"
+      },
+      {
+        "label": "C",
+        "content": "零"
+      },
+      {
+        "label": "D",
+        "content": "无穷大"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 16,
+    "question": "德拜方程适用于（  ）的弛豫极化",
+    "options": [
+      {
+        "label": "A",
+        "content": "单一松弛时间"
+      },
+      {
+        "label": "B",
+        "content": "多个松弛时间"
+      },
+      {
+        "label": "C",
+        "content": "任何松弛时间分布"
+      },
+      {
+        "label": "D",
+        "content": "无松弛时间"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 17,
+    "question": "德拜方程中，松弛时间τ与温度T的关系是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "τ与T成正比"
+      },
+      {
+        "label": "B",
+        "content": "τ与T成反比"
+      },
+      {
+        "label": "C",
+        "content": "τ随T升高呈指数减小"
+      },
+      {
+        "label": "D",
+        "content": "τ随T升高呈指数增大"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 18,
+    "question": "当ωτ=1时，介质损耗因子ε″达到（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "最小值"
+      },
+      {
+        "label": "B",
+        "content": "最大值"
+      },
+      {
+        "label": "C",
+        "content": "零"
+      },
+      {
+        "label": "D",
+        "content": "恒定值"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 19,
+    "question": "介电色散现象是指（  ）随频率变化的现象",
+    "options": [
+      {
+        "label": "A",
+        "content": "介电常数"
+      },
+      {
+        "label": "B",
+        "content": "电导率"
+      },
+      {
+        "label": "C",
+        "content": "击穿场强"
+      },
+      {
+        "label": "D",
+        "content": "极化强度"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 20,
+    "question": "慢极化建立的时间范围约为（  ）秒",
+    "options": [
+      {
+        "label": "A",
+        "content": "10⁻¹⁴～10⁻¹⁵"
+      },
+      {
+        "label": "B",
+        "content": "10⁻¹²～10⁻¹³"
+      },
+      {
+        "label": "C",
+        "content": "10⁻⁶～10⁻²"
+      },
+      {
+        "label": "D",
+        "content": "10⁰～10²"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 21,
+    "question": "下列哪种极化属于慢极化（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子位移极化"
+      },
+      {
+        "label": "B",
+        "content": "离子位移极化"
+      },
+      {
+        "label": "C",
+        "content": "转向极化"
+      },
+      {
+        "label": "D",
+        "content": "以上都是"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 22,
+    "question": "弛豫时间τ的物理意义是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极化建立到最大值的时间"
+      },
+      {
+        "label": "B",
+        "content": "极化衰减到初始值1/e的时间"
+      },
+      {
+        "label": "C",
+        "content": "电场变化的周期"
+      },
+      {
+        "label": "D",
+        "content": "介质发热的时间"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 23,
+    "question": "Cole-Cole图的横坐标是（  ），纵坐标是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "ε″；ε′"
+      },
+      {
+        "label": "B",
+        "content": "ε′；ε″"
+      },
+      {
+        "label": "C",
+        "content": "ω；ε′"
+      },
+      {
+        "label": "D",
+        "content": "T；ε″"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 24,
+    "question": "理想德拜特性的Cole-Cole图是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "直线"
+      },
+      {
+        "label": "B",
+        "content": "半圆"
+      },
+      {
+        "label": "C",
+        "content": "椭圆"
+      },
+      {
+        "label": "D",
+        "content": "抛物线"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 25,
+    "question": "当电介质存在多个松弛时间时，Cole-Cole图的形状是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "完整半圆"
+      },
+      {
+        "label": "B",
+        "content": "部分圆弧"
+      },
+      {
+        "label": "C",
+        "content": "直线"
+      },
+      {
+        "label": "D",
+        "content": "抛物线"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 26,
+    "question": "介电常数ε′随频率升高的变化趋势是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "一直增大"
+      },
+      {
+        "label": "B",
+        "content": "一直减小"
+      },
+      {
+        "label": "C",
+        "content": "先增大后减小"
+      },
+      {
+        "label": "D",
+        "content": "先减小后增大"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 27,
+    "question": "介质损耗角正切tgδ随频率升高的变化趋势是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "一直增大"
+      },
+      {
+        "label": "B",
+        "content": "一直减小"
+      },
+      {
+        "label": "C",
+        "content": "先增大后减小"
+      },
+      {
+        "label": "D",
+        "content": "先减小后增大"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 28,
+    "question": "温度升高时，松弛时间τ（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "增大"
+      },
+      {
+        "label": "B",
+        "content": "减小"
+      },
+      {
+        "label": "C",
+        "content": "不变"
+      },
+      {
+        "label": "D",
+        "content": "先增大后减小"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 29,
+    "question": "频率升高时，ε′-T曲线的极大值将向（  ）方向移动",
+    "options": [
+      {
+        "label": "A",
+        "content": "低温"
+      },
+      {
+        "label": "B",
+        "content": "高温"
+      },
+      {
+        "label": "C",
+        "content": "不移动"
+      },
+      {
+        "label": "D",
+        "content": "随机移动"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 30,
+    "question": "tgδ-T曲线的极大值对应的温度随频率升高将（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "降低"
+      },
+      {
+        "label": "B",
+        "content": "升高"
+      },
+      {
+        "label": "C",
+        "content": "不变"
+      },
+      {
+        "label": "D",
+        "content": "不确定"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 31,
+    "question": "计及漏导损耗时，低频段的tgδ主要由（  ）引起",
+    "options": [
+      {
+        "label": "A",
+        "content": "弛豫极化"
+      },
+      {
+        "label": "B",
+        "content": "漏导电流"
+      },
+      {
+        "label": "C",
+        "content": "电子位移极化"
+      },
+      {
+        "label": "D",
+        "content": "离子位移极化"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 32,
+    "question": "当电介质的电导率γ增大时，tgδ的弛豫极大值将（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "更加明显"
+      },
+      {
+        "label": "B",
+        "content": "逐渐不明显"
+      },
+      {
+        "label": "C",
+        "content": "不变"
+      },
+      {
+        "label": "D",
+        "content": "消失"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 33,
+    "question": "有损耗电介质的串联等效电路由（  ）组成",
+    "options": [
+      {
+        "label": "A",
+        "content": "理想电容和理想电阻串联"
+      },
+      {
+        "label": "B",
+        "content": "理想电容和理想电阻并联"
+      },
+      {
+        "label": "C",
+        "content": "两个理想电容串联"
+      },
+      {
+        "label": "D",
+        "content": "两个理想电阻串联"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 34,
+    "question": "有损耗电介质的并联等效电路由（  ）组成",
+    "options": [
+      {
+        "label": "A",
+        "content": "理想电容和理想电阻串联"
+      },
+      {
+        "label": "B",
+        "content": "理想电容和理想电阻并联"
+      },
+      {
+        "label": "C",
+        "content": "两个理想电容并联"
+      },
+      {
+        "label": "D",
+        "content": "两个理想电阻并联"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 35,
+    "question": "串联等效电路中，介质损耗角正切tgδ=（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "ωCₛRₛ"
+      },
+      {
+        "label": "B",
+        "content": "1/(ωCₛRₛ)"
+      },
+      {
+        "label": "C",
+        "content": "CₛRₛ"
+      },
+      {
+        "label": "D",
+        "content": "1/(CₛRₛ)"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 36,
+    "question": "并联等效电路中，介质损耗角正切tgδ=（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "ωCₚRₚ"
+      },
+      {
+        "label": "B",
+        "content": "1/(ωCₚRₚ)"
+      },
+      {
+        "label": "C",
+        "content": "CₚRₚ"
+      },
+      {
+        "label": "D",
+        "content": "1/(CₚRₚ)"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 37,
+    "question": "当tgδ很小时，串联等效电容Cₛ与并联等效电容Cₚ的关系是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "Cₛ=Cₚ"
+      },
+      {
+        "label": "B",
+        "content": "Cₛ＞Cₚ"
+      },
+      {
+        "label": "C",
+        "content": "Cₛ＜Cₚ"
+      },
+      {
+        "label": "D",
+        "content": "无固定关系"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 38,
+    "question": "电磁波在介质中的传播速度v与介电常数ε的关系是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "v与√ε成正比"
+      },
+      {
+        "label": "B",
+        "content": "v与√ε成反比"
+      },
+      {
+        "label": "C",
+        "content": "v与ε成正比"
+      },
+      {
+        "label": "D",
+        "content": "v与ε成反比"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 39,
+    "question": "复折射率的虚部k反映介质的（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "折射能力"
+      },
+      {
+        "label": "B",
+        "content": "吸收能力"
+      },
+      {
+        "label": "C",
+        "content": "极化能力"
+      },
+      {
+        "label": "D",
+        "content": "储能能力"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 40,
+    "question": "无损耗电介质的复折射率虚部k=（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "0"
+      },
+      {
+        "label": "B",
+        "content": "1"
+      },
+      {
+        "label": "C",
+        "content": "ε′"
+      },
+      {
+        "label": "D",
+        "content": "ε″"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 41,
+    "question": "德拜方程中，静态介电常数εₛ与光频介电常数ε∞的关系是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "εₛ＞ε∞"
+      },
+      {
+        "label": "B",
+        "content": "εₛ＜ε∞"
+      },
+      {
+        "label": "C",
+        "content": "εₛ=ε∞"
+      },
+      {
+        "label": "D",
+        "content": "无固定关系"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 42,
+    "question": "转向极化对介电常数的贡献在（  ）频率下最显著",
+    "options": [
+      {
+        "label": "A",
+        "content": "低频"
+      },
+      {
+        "label": "B",
+        "content": "中频"
+      },
+      {
+        "label": "C",
+        "content": "高频"
+      },
+      {
+        "label": "D",
+        "content": "光频"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 43,
+    "question": "电子位移极化对介电常数的贡献在（  ）频率下都存在",
+    "options": [
+      {
+        "label": "A",
+        "content": "仅低频"
+      },
+      {
+        "label": "B",
+        "content": "仅高频"
+      },
+      {
+        "label": "C",
+        "content": "所有"
+      },
+      {
+        "label": "D",
+        "content": "仅中频"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 44,
+    "question": "介质损耗的功率密度w与ε″的关系是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "w与ε″成正比"
+      },
+      {
+        "label": "B",
+        "content": "w与ε″成反比"
+      },
+      {
+        "label": "C",
+        "content": "w与ε″无关"
+      },
+      {
+        "label": "D",
+        "content": "w与ε″²成正比"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 45,
+    "question": "当电场频率ω=1/τ时，tgδ达到（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "最小值"
+      },
+      {
+        "label": "B",
+        "content": "最大值"
+      },
+      {
+        "label": "C",
+        "content": "零"
+      },
+      {
+        "label": "D",
+        "content": "恒定值"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 46,
+    "question": "Cole-Cole图的圆心坐标是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "((εₛ+ε∞)/2, 0)"
+      },
+      {
+        "label": "B",
+        "content": "((εₛ-ε∞)/2, 0)"
+      },
+      {
+        "label": "C",
+        "content": "(0, (εₛ+ε∞)/2)"
+      },
+      {
+        "label": "D",
+        "content": "(0, (εₛ-ε∞)/2)"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 47,
+    "question": "Cole-Cole图的半径是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "(εₛ+ε∞)/2"
+      },
+      {
+        "label": "B",
+        "content": "(εₛ-ε∞)/2"
+      },
+      {
+        "label": "C",
+        "content": "εₛ+ε∞"
+      },
+      {
+        "label": "D",
+        "content": "εₛ-ε∞"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 48,
+    "question": "温度对介电常数ε′的影响，低温区ε′随T升高而（  ），高温区随T升高而（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "增大；减小"
+      },
+      {
+        "label": "B",
+        "content": "减小；增大"
+      },
+      {
+        "label": "C",
+        "content": "增大；增大"
+      },
+      {
+        "label": "D",
+        "content": "减小；减小"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 49,
+    "question": "漏导损耗对复介电常数的贡献是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "-iγ/ω"
+      },
+      {
+        "label": "B",
+        "content": "iγ/ω"
+      },
+      {
+        "label": "C",
+        "content": "γ/ω"
+      },
+      {
+        "label": "D",
+        "content": "-γ/ω"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 50,
+    "question": "有损耗电介质在高频强电场下工作时，若tgδ较大，可能导致（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极化增强"
+      },
+      {
+        "label": "B",
+        "content": "储能增加"
+      },
+      {
+        "label": "C",
+        "content": "介质发热损坏"
+      },
+      {
+        "label": "D",
+        "content": "击穿场强升高"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 61,
+    "question": "交变电场中，电介质的特性用（  ）描述，其表达式为（  ），其中实部ε′反映（  ），虚部ε″反映（  ）。",
+    "options": [],
+    "answer": "复介电常数ε*；ε*=ε′-iε″；极化能力；能量损耗",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 62,
+    "question": "复相对介电常数的表达式为（  ），εᵣ″=（  ），其与电导率γ的关系为（  ）。",
+    "options": [],
+    "answer": "εᵣ*=εᵣ′-iεᵣ″；γ/ω；γ=ωεᵣ″ε₀",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 63,
+    "question": "介质损耗角δ是（  ）与（  ）之间的相位差，介质损耗角正切tgδ=（  ）。",
+    "options": [],
+    "answer": "电位移D；电场E；ε″/ε′（或εᵣ″/εᵣ′）",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 64,
+    "question": "介质损耗的定义是（  ），单位时间单位体积的损耗功率w=（  ）。",
+    "options": [],
+    "answer": "电介质在单位时间内每单位体积中转化为热能的电能；ωε₀εᵣ′E₀²tgδ（或ωε₀ε″E₀²）",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 65,
+    "question": "直流电场中，介质损耗功率密度w=（  ），与（  ）成正比。",
+    "options": [],
+    "answer": "γE²；电场强度的平方",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 66,
+    "question": "交变电场中，电位移D与电场E的相位差δ=0时，介质损耗w=（  ），表明（  ）。",
+    "options": [],
+    "answer": "0；极化完全跟上电场变化，无能量损耗",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 67,
+    "question": "弛豫现象是指（  ），产生的原因是（  ）。",
+    "options": [],
+    "answer": "极化滞后于电场变化，出现吸收电流和残余电流的现象；存在慢极化（松弛极化）",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 68,
+    "question": "快极化包括（  ）和（  ），建立时间分别为（  ）和（  ）秒。",
+    "options": [],
+    "answer": "电子位移极化；离子位移极化；10⁻¹⁴～10⁻¹⁵；10⁻¹²～10⁻¹³",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 69,
+    "question": "慢极化包括（  ）、（  ）和（  ），建立时间约为（  ）秒。",
+    "options": [],
+    "answer": "转向极化；热离子极化；空间电荷极化；10⁻⁶～10⁻²",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 70,
+    "question": "极化强度P的表达式为（  ），其中P∞是（  ），Pr是（  ）。",
+    "options": [],
+    "answer": "P=P∞+Pr(1-e⁻ᵗ/τ)；位移极化强度；松弛极化强度",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 71,
+    "question": "松弛时间τ的物理意义是（  ），当t=τ时，Pr=（  ）Prm。",
+    "options": [],
+    "answer": "极化强度衰减到初始值1/e所需的时间；0.632",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 72,
+    "question": "德拜方程的复介电常数形式为（  ），实部ε′=（  ），虚部ε″=（  ）。",
+    "options": [],
+    "answer": "ε*=ε∞+(εₛ-ε∞)/(1+iωτ)；ε∞+(εₛ-ε∞)/(1+ω²τ²)；(εₛ-ε∞)ωτ/(1+ω²τ²)",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 73,
+    "question": "德拜方程中，εₛ是（  ），ε∞是（  ），τ是（  ）。",
+    "options": [],
+    "answer": "静态介电常数；光频介电常数；松弛时间常数",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 74,
+    "question": "当ωτ=1时，ε″达到最大值，其值为（  ），此时tgδ=（  ）。",
+    "options": [],
+    "answer": "(εₛ-ε∞)/2；(εₛ-ε∞)/(εₛ+ε∞)",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 75,
+    "question": "松弛时间τ与温度的关系为（  ），表明温度升高时，τ（  ）。",
+    "options": [],
+    "answer": "lnτ=常数+U₀/(kT)；呈指数减小",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 76,
+    "question": "Cole-Cole图是以（  ）为横轴，（  ）为纵轴的图形，单一松弛时间的Cole-Cole图是（  ）。",
+    "options": [],
+    "answer": "ε′；ε″；半圆",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 77,
+    "question": "Cole-Cole图的圆心坐标为（  ），半径为（  ），与ε′轴的交点分别为（  ）和（  ）。",
+    "options": [],
+    "answer": "((εₛ+ε∞)/2, 0)；(εₛ-ε∞)/2；εₛ（ω→0）；ε∞（ω→∞）",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 78,
+    "question": "实际电介质的Cole-Cole图常为（  ），表明（  ）。",
+    "options": [],
+    "answer": "部分圆弧；存在多个松弛时间",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 79,
+    "question": "介电性能与温度的关系中，低温区ε′随T升高而（  ），原因是（  ）；高温区ε′随T升高而（  ），原因是（  ）。",
+    "options": [],
+    "answer": "增大；e²B/T的影响占主导；减小；A/T的影响占主导（A为与极化率相关的常量）",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 80,
+    "question": "tgδ与温度的关系中，低温区tgδ随T升高而（  ），高温区随T升高而（  ），中间出现（  ）。",
+    "options": [],
+    "answer": "增大；减小；极大值",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 81,
+    "question": "频率升高时，ε′-T曲线的极大值向（  ）方向移动，tgδ极大值对应的温度向（  ）方向移动。",
+    "options": [],
+    "answer": "高温；高温",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 82,
+    "question": "计及漏导损耗时，介质损耗角正切tgδ=（  ），低频段主要由（  ）贡献，高频段主要由（  ）贡献。",
+    "options": [],
+    "answer": "(γ+ωε₀(εₛ-ε∞)ωτ/(1+ω²τ²))/(ωε₀(ε∞+(εₛ-ε∞)/(1+ω²τ²)))；漏导电流；松弛极化",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 83,
+    "question": "当电导率γ增大时，tgδ的弛豫极大值将（  ），当γ很大时，极大值（  ）。",
+    "options": [],
+    "answer": "逐渐不明显；完全被淹没",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 84,
+    "question": "有损耗电介质的等效电路有（  ）和（  ）两种，串联等效电路的有功功率P=（  ），并联等效电路的有功功率P=（  ）。",
+    "options": [],
+    "answer": "串联等效电路；并联等效电路；I²Rₛ；U²/Rₚ",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 85,
+    "question": "串联等效电路中，tgδ=（  ）；并联等效电路中，tgδ=（  ）。",
+    "options": [],
+    "answer": "ωCₛRₛ；1/(ωCₚRₚ)",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 86,
+    "question": "当tgδ很小时，串联等效电容Cₛ与并联等效电容Cₚ的关系为（  ），串联等效电阻Rₛ与并联等效电阻Rₚ的关系为（  ）。",
+    "options": [],
+    "answer": "Cₛ=Cₚ=C；Rₚ≈1/(ω²C²Rₛ)",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 87,
+    "question": "电磁波在介质中的传播速度v=（  ），复折射率N*=（  ），其中n反映（  ），k反映（  ）。",
+    "options": [],
+    "answer": "c/√(εᵣμᵣ)；n-ik；折射能力；吸收能力",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 88,
+    "question": "无损耗电介质的复折射率虚部k=（  ），相对介电常数εᵣ=（  ）。",
+    "options": [],
+    "answer": "0；n²",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 89,
+    "question": "介电色散（弥散）现象是指（  ），本质是（  ）。",
+    "options": [],
+    "answer": "交变电场中介电常数随频率变化的现象；极化建立需要时间，不同频率下极化响应不同",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 90,
+    "question": "产生介质损耗的三种机构是（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "漏导损耗；慢极化引起的极化滞后损耗；原子离子振动的共振损耗",
+    "type": "fill",
+    "section": "三、恒定电场中的电导部分"
+  },
+  {
+    "id": 1,
+    "question": "电介质击穿是指（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电介质极化增强"
+      },
+      {
+        "label": "B",
+        "content": "电介质电导增大"
+      },
+      {
+        "label": "C",
+        "content": "电介质丧失绝缘性能"
+      },
+      {
+        "label": "D",
+        "content": "电介质损耗增大"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 2,
+    "question": "介电强度Eb的定义是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "击穿电压Ub"
+      },
+      {
+        "label": "B",
+        "content": "击穿电场强度Ub/d"
+      },
+      {
+        "label": "C",
+        "content": "电介质的最大电场强度"
+      },
+      {
+        "label": "D",
+        "content": "电介质的最小电场强度"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 3,
+    "question": "电介质击穿的类型不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "本征击穿"
+      },
+      {
+        "label": "B",
+        "content": "热击穿"
+      },
+      {
+        "label": "C",
+        "content": "放电击穿"
+      },
+      {
+        "label": "D",
+        "content": "极化击穿"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 4,
+    "question": "本征击穿（电击穿）的本质是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子过程"
+      },
+      {
+        "label": "B",
+        "content": "热不平衡"
+      },
+      {
+        "label": "C",
+        "content": "空隙放电"
+      },
+      {
+        "label": "D",
+        "content": "极化过度"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 5,
+    "question": "热击穿的本质是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子过程"
+      },
+      {
+        "label": "B",
+        "content": "热不平衡，介质发热损坏"
+      },
+      {
+        "label": "C",
+        "content": "空隙放电"
+      },
+      {
+        "label": "D",
+        "content": "电导增大"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 6,
+    "question": "放电击穿与电介质中的（  ）有关",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子"
+      },
+      {
+        "label": "B",
+        "content": "离子"
+      },
+      {
+        "label": "C",
+        "content": "空隙或空洞"
+      },
+      {
+        "label": "D",
+        "content": "极化"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 7,
+    "question": "电介质击穿的不可逆性适用于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "气体介质"
+      },
+      {
+        "label": "B",
+        "content": "液体介质和固体介质"
+      },
+      {
+        "label": "C",
+        "content": "所有介质"
+      },
+      {
+        "label": "D",
+        "content": "无"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 8,
+    "question": "气体介质击穿后，撤去电压能恢复绝缘性能，称为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "自愈"
+      },
+      {
+        "label": "B",
+        "content": "绝缘恢复"
+      },
+      {
+        "label": "C",
+        "content": "击穿恢复"
+      },
+      {
+        "label": "D",
+        "content": "极化恢复"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 9,
+    "question": "金属化纸介电容器的“自愈”特性是指（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "击穿后自动恢复绝缘"
+      },
+      {
+        "label": "B",
+        "content": "击穿后烧掉击穿部位的电极，隔离损坏区域"
+      },
+      {
+        "label": "C",
+        "content": "无击穿现象"
+      },
+      {
+        "label": "D",
+        "content": "极化自动恢复"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 10,
+    "question": "电介质击穿的伏-安特性曲线中，击穿时的特点是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电流随电压增大而增大"
+      },
+      {
+        "label": "B",
+        "content": "电压不变，电流急剧增大"
+      },
+      {
+        "label": "C",
+        "content": "电流随电压增大而减小"
+      },
+      {
+        "label": "D",
+        "content": "电压电流都不变"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 11,
+    "question": "凝聚态电介质的击穿电场强度范围约为（  ）V/cm",
+    "options": [
+      {
+        "label": "A",
+        "content": "10²～10³"
+      },
+      {
+        "label": "B",
+        "content": "10⁵～10⁶"
+      },
+      {
+        "label": "C",
+        "content": "10⁸～10⁹"
+      },
+      {
+        "label": "D",
+        "content": "10¹⁰～10¹¹"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 12,
+    "question": "影响电介质击穿场强的因素不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "介质本身性质"
+      },
+      {
+        "label": "B",
+        "content": "环境条件"
+      },
+      {
+        "label": "C",
+        "content": "电极形状"
+      },
+      {
+        "label": "D",
+        "content": "极化强度"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 13,
+    "question": "气体介质的击穿是由于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子热激发"
+      },
+      {
+        "label": "B",
+        "content": "离子热激发"
+      },
+      {
+        "label": "C",
+        "content": "碰撞电离，载流子雪崩增长"
+      },
+      {
+        "label": "D",
+        "content": "极化过度"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 14,
+    "question": "气体介质的电流达到饱和时，电流密度与（  ）无关",
+    "options": [
+      {
+        "label": "A",
+        "content": "电场强度"
+      },
+      {
+        "label": "B",
+        "content": "离子生成速率"
+      },
+      {
+        "label": "C",
+        "content": "极板间距"
+      },
+      {
+        "label": "D",
+        "content": "载流子电荷"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 15,
+    "question": "气体介质的碰撞电离发生在电场强度（  ）时",
+    "options": [
+      {
+        "label": "A",
+        "content": "很弱"
+      },
+      {
+        "label": "B",
+        "content": "中等"
+      },
+      {
+        "label": "C",
+        "content": "很高（E＞10⁶V/m）"
+      },
+      {
+        "label": "D",
+        "content": "任何强度"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 16,
+    "question": "气体放电的形式不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "火花放电"
+      },
+      {
+        "label": "B",
+        "content": "辉光放电"
+      },
+      {
+        "label": "C",
+        "content": "电晕放电"
+      },
+      {
+        "label": "D",
+        "content": "极化放电"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 17,
+    "question": "火花放电多发生在（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "低气压"
+      },
+      {
+        "label": "B",
+        "content": "常压附近"
+      },
+      {
+        "label": "C",
+        "content": "高气压"
+      },
+      {
+        "label": "D",
+        "content": "任何气压"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 18,
+    "question": "辉光放电多发生在（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "低气压（几十毫米汞柱）"
+      },
+      {
+        "label": "B",
+        "content": "常压"
+      },
+      {
+        "label": "C",
+        "content": "高气压"
+      },
+      {
+        "label": "D",
+        "content": "真空"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 19,
+    "question": "电晕放电的特点是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电极尖端出现微光"
+      },
+      {
+        "label": "B",
+        "content": "均匀辉光区"
+      },
+      {
+        "label": "C",
+        "content": "明亮连续弧光"
+      },
+      {
+        "label": "D",
+        "content": "细光束火花"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 20,
+    "question": "电弧放电的特点是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电极尖端出现微光"
+      },
+      {
+        "label": "B",
+        "content": "均匀辉光区"
+      },
+      {
+        "label": "C",
+        "content": "明亮连续弧光，温度极高"
+      },
+      {
+        "label": "D",
+        "content": "细光束火花"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 21,
+    "question": "固体介质的本征击穿与（  ）有关",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子"
+      },
+      {
+        "label": "B",
+        "content": "离子"
+      },
+      {
+        "label": "C",
+        "content": "空隙"
+      },
+      {
+        "label": "D",
+        "content": "温度"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 22,
+    "question": "固体介质的热击穿与（  ）有关",
+    "options": [
+      {
+        "label": "A",
+        "content": "电子过程"
+      },
+      {
+        "label": "B",
+        "content": "电导率和散热条件"
+      },
+      {
+        "label": "C",
+        "content": "空隙放电"
+      },
+      {
+        "label": "D",
+        "content": "极化"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 23,
+    "question": "液体介质的击穿与（  ）关系密切",
+    "options": [
+      {
+        "label": "A",
+        "content": "杂质"
+      },
+      {
+        "label": "B",
+        "content": "电子"
+      },
+      {
+        "label": "C",
+        "content": "离子"
+      },
+      {
+        "label": "D",
+        "content": "温度"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 24,
+    "question": "电介质的击穿电压Ub与介质厚度d的关系为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "Ub与d成正比"
+      },
+      {
+        "label": "B",
+        "content": "Ub与d成反比"
+      },
+      {
+        "label": "C",
+        "content": "Ub与√d成正比"
+      },
+      {
+        "label": "D",
+        "content": "无固定关系"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 25,
+    "question": "电极形状对击穿场强的影响是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电极曲率半径越小，击穿场强越高"
+      },
+      {
+        "label": "B",
+        "content": "电极曲率半径越小，击穿场强越低"
+      },
+      {
+        "label": "C",
+        "content": "无影响"
+      },
+      {
+        "label": "D",
+        "content": "不确定"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 26,
+    "question": "环境温度升高时，电介质的击穿场强（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "升高"
+      },
+      {
+        "label": "B",
+        "content": "降低"
+      },
+      {
+        "label": "C",
+        "content": "不变"
+      },
+      {
+        "label": "D",
+        "content": "先升高后降低"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 27,
+    "question": "湿度增大时，固体介质的击穿场强（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "升高"
+      },
+      {
+        "label": "B",
+        "content": "降低"
+      },
+      {
+        "label": "C",
+        "content": "不变"
+      },
+      {
+        "label": "D",
+        "content": "先升高后降低"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 28,
+    "question": "气体介质的击穿场强与气压的关系是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "气压越高，击穿场强越高"
+      },
+      {
+        "label": "B",
+        "content": "气压越高，击穿场强越低"
+      },
+      {
+        "label": "C",
+        "content": "无关"
+      },
+      {
+        "label": "D",
+        "content": "先升高后降低"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 29,
+    "question": "本征击穿的击穿场强（  ）热击穿的击穿场强",
+    "options": [
+      {
+        "label": "A",
+        "content": "高于"
+      },
+      {
+        "label": "B",
+        "content": "低于"
+      },
+      {
+        "label": "C",
+        "content": "等于"
+      },
+      {
+        "label": "D",
+        "content": "不确定"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 30,
+    "question": "电介质在（  ）电场下的击穿场强最高",
+    "options": [
+      {
+        "label": "A",
+        "content": "直流"
+      },
+      {
+        "label": "B",
+        "content": "交流"
+      },
+      {
+        "label": "C",
+        "content": "脉冲"
+      },
+      {
+        "label": "D",
+        "content": "锯齿波"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 31,
+    "question": "固体介质的击穿是（  ）的",
+    "options": [
+      {
+        "label": "A",
+        "content": "可逆"
+      },
+      {
+        "label": "B",
+        "content": "不可逆"
+      },
+      {
+        "label": "C",
+        "content": "部分可逆"
+      },
+      {
+        "label": "D",
+        "content": "不确定"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 32,
+    "question": "液体介质的击穿多属于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "本征击穿"
+      },
+      {
+        "label": "B",
+        "content": "热击穿"
+      },
+      {
+        "label": "C",
+        "content": "放电击穿"
+      },
+      {
+        "label": "D",
+        "content": "杂质击穿"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 33,
+    "question": "气体介质的击穿场强与（  ）无关",
+    "options": [
+      {
+        "label": "A",
+        "content": "气压"
+      },
+      {
+        "label": "B",
+        "content": "电极间距"
+      },
+      {
+        "label": "C",
+        "content": "极化率"
+      },
+      {
+        "label": "D",
+        "content": "电场均匀度"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 34,
+    "question": "电晕放电属于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "局部放电"
+      },
+      {
+        "label": "B",
+        "content": "完全击穿"
+      },
+      {
+        "label": "C",
+        "content": "热击穿"
+      },
+      {
+        "label": "D",
+        "content": "本征击穿"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 35,
+    "question": "局部放电是指（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "整个介质击穿"
+      },
+      {
+        "label": "B",
+        "content": "介质局部区域放电，未贯通电极"
+      },
+      {
+        "label": "C",
+        "content": "热击穿"
+      },
+      {
+        "label": "D",
+        "content": "本征击穿"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 36,
+    "question": "影响局部放电的因素不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "介质中的空隙"
+      },
+      {
+        "label": "B",
+        "content": "电场强度"
+      },
+      {
+        "label": "C",
+        "content": "极化强度"
+      },
+      {
+        "label": "D",
+        "content": "电极形状"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 37,
+    "question": "电介质的击穿场强Eb是表征其（  ）的重要参数",
+    "options": [
+      {
+        "label": "A",
+        "content": "极化能力"
+      },
+      {
+        "label": "B",
+        "content": "绝缘性能极限"
+      },
+      {
+        "label": "C",
+        "content": "损耗程度"
+      },
+      {
+        "label": "D",
+        "content": "电导特性"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 38,
+    "question": "本征击穿的发生时间（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极短"
+      },
+      {
+        "label": "B",
+        "content": "较短"
+      },
+      {
+        "label": "C",
+        "content": "较长"
+      },
+      {
+        "label": "D",
+        "content": "与热击穿相当"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 39,
+    "question": "热击穿的发生时间（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极短"
+      },
+      {
+        "label": "B",
+        "content": "较短"
+      },
+      {
+        "label": "C",
+        "content": "较长"
+      },
+      {
+        "label": "D",
+        "content": "与本征击穿相当"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 40,
+    "question": "电介质的击穿场强测量时，需要消除（  ）的影响",
+    "options": [
+      {
+        "label": "A",
+        "content": "极化"
+      },
+      {
+        "label": "B",
+        "content": "电导"
+      },
+      {
+        "label": "C",
+        "content": "电极边缘电场集中"
+      },
+      {
+        "label": "D",
+        "content": "损耗"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 41,
+    "question": "纯净液体介质的击穿场强（  ）含杂质液体介质的击穿场强",
+    "options": [
+      {
+        "label": "A",
+        "content": "高于"
+      },
+      {
+        "label": "B",
+        "content": "低于"
+      },
+      {
+        "label": "C",
+        "content": "等于"
+      },
+      {
+        "label": "D",
+        "content": "不确定"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 42,
+    "question": "晶体介质的击穿场强（  ）非晶态介质的击穿场强",
+    "options": [
+      {
+        "label": "A",
+        "content": "高于"
+      },
+      {
+        "label": "B",
+        "content": "低于"
+      },
+      {
+        "label": "C",
+        "content": "等于"
+      },
+      {
+        "label": "D",
+        "content": "不确定"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 43,
+    "question": "电介质的击穿场强随厚度增加而（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "升高"
+      },
+      {
+        "label": "B",
+        "content": "降低"
+      },
+      {
+        "label": "C",
+        "content": "不变"
+      },
+      {
+        "label": "D",
+        "content": "先升高后降低"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 44,
+    "question": "交流电场下，电介质的击穿场强（  ）直流电场下的击穿场强",
+    "options": [
+      {
+        "label": "A",
+        "content": "高于"
+      },
+      {
+        "label": "B",
+        "content": "低于"
+      },
+      {
+        "label": "C",
+        "content": "等于"
+      },
+      {
+        "label": "D",
+        "content": "不确定"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 45,
+    "question": "脉冲电场的脉宽越短，电介质的击穿场强（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "越高"
+      },
+      {
+        "label": "B",
+        "content": "越低"
+      },
+      {
+        "label": "C",
+        "content": "不变"
+      },
+      {
+        "label": "D",
+        "content": "先升高后降低"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 46,
+    "question": "电介质的击穿过程是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "能量积累过程"
+      },
+      {
+        "label": "B",
+        "content": "极化过程"
+      },
+      {
+        "label": "C",
+        "content": "电导过程"
+      },
+      {
+        "label": "D",
+        "content": "损耗过程"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 47,
+    "question": "本征击穿的能量来源是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电场能量"
+      },
+      {
+        "label": "B",
+        "content": "热能"
+      },
+      {
+        "label": "C",
+        "content": "极化能量"
+      },
+      {
+        "label": "D",
+        "content": "化学能"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 48,
+    "question": "热击穿的能量来源是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电场能量"
+      },
+      {
+        "label": "B",
+        "content": "热能"
+      },
+      {
+        "label": "C",
+        "content": "极化能量"
+      },
+      {
+        "label": "D",
+        "content": "化学能"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 49,
+    "question": "放电击穿的能量来源是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电场能量"
+      },
+      {
+        "label": "B",
+        "content": "空隙中的放电能量"
+      },
+      {
+        "label": "C",
+        "content": "极化能量"
+      },
+      {
+        "label": "D",
+        "content": "化学能"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 50,
+    "question": "提高电介质击穿场强的方法不包括（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "提高介质纯度"
+      },
+      {
+        "label": "B",
+        "content": "改善电极形状"
+      },
+      {
+        "label": "C",
+        "content": "增大介质厚度"
+      },
+      {
+        "label": "D",
+        "content": "优化环境条件"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 1,
+    "question": "电介质击穿是指在（  ）作用下，电介质（  ）的现象，表征其绝缘性能极限的参数是（  ）。",
+    "options": [],
+    "answer": "强电场；丧失绝缘性能；击穿场强Eb",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 2,
+    "question": "介电强度Eb的定义式为（  ），单位是（  ）。",
+    "options": [],
+    "answer": "Eb=Ub/d；V/m（或V/cm）",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 3,
+    "question": "电介质击穿的三种基本类型是（  ）、（  ）和（  ），分别取决于（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "本征击穿；热击穿；放电击穿；电子过程；介质电导率与散热条件；介质中的空隙或空洞",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 4,
+    "question": "本征击穿又称（  ），其本质是（  ）过程，击穿场强（  ）；热击穿由（  ）产生，与（  ）有关。",
+    "options": [],
+    "answer": "电击穿；电子电导；高；热不平衡；周围温度和散热条件",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 5,
+    "question": "绝缘性能的破坏对（  ）和（  ）是不可逆的，对（  ）是可逆的，称为（  ）。",
+    "options": [],
+    "answer": "固体介质；液体介质；气体介质；绝缘恢复",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 6,
+    "question": "金属化纸介电容器的“自愈”特性是指（  ），与绝缘恢复的区别是（  ）。",
+    "options": [],
+    "answer": "局部击穿时，放电能量烧掉击穿部位的金属膜电极，隔离损坏区域；自愈是隔离损坏部位，绝缘恢复是气体本身恢复绝缘性能",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 7,
+    "question": "电介质击穿的伏-安特性曲线中，击穿前电流与电压符合（  ），击穿时（  ），电流急剧增大。",
+    "options": [],
+    "answer": "欧姆定律；电压保持不变",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 8,
+    "question": "强电场的概念是相对的，凝聚态电介质的击穿场强范围约为（  ）V/cm，从原子尺度看，这些电场（  ）。",
+    "options": [],
+    "answer": "10⁵～10⁶；很低",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 9,
+    "question": "电击穿是一种（  ）现象，能量通过（  ）传递到介质分子。",
+    "options": [],
+    "answer": "集体；电子或离子（从电场获得足够能量）",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 10,
+    "question": "影响电介质击穿场强的因素有（  ）、（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "介质本身性质和组分；环境条件；电极形状；施加电场的形式",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 11,
+    "question": "气体介质的击穿是由于（  ），载流子（  ）增长，电流无限增大。",
+    "options": [],
+    "answer": "碰撞电离；雪崩似地",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 12,
+    "question": "气体分子的电离来源有（  ）、（  ）和（  ），电离分为（  ）和（  ）。",
+    "options": [],
+    "answer": "碰撞电离；光电离；热电离；体积电离；表面电离",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 13,
+    "question": "体积电离发生在（  ），其电离过程决定于（  ）；表面电离发生在（  ），其电流主要与（  ）有关。",
+    "options": [],
+    "answer": "气体体积内；气体的性质；金属电极表面；电极金属的特性",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 14,
+    "question": "气体放电的形式有（  ）、（  ）、（  ）和（  ），分别发生在（  ）、（  ）、（  ）和（  ）条件下。",
+    "options": [],
+    "answer": "火花放电；辉光放电；电晕放电；电弧放电；常压附近；低气压；电极曲率半径小、电场不均匀；电源功率大、外电路电阻小",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 15,
+    "question": "火花放电的特点是（  ），辉光放电的特点是（  ）。",
+    "options": [],
+    "answer": "气隙中突然出现明亮火花，电源功率不大时瞬时熄灭；电极间出现均匀、明暗相间的辉光区，电流小、电极温度低",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 16,
+    "question": "电晕放电的特点是（  ），电弧放电的特点是（  ）。",
+    "options": [],
+    "answer": "电极尖端附近出现暗蓝色微光，发出声音，属于局部放电；火花放电后发展为连续弧光，温度极高",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 17,
+    "question": "固体介质的本征击穿与（  ）有关，热击穿与（  ）和（  ）有关。",
+    "options": [],
+    "answer": "电子过程；介质电导率；散热条件",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 18,
+    "question": "液体介质的击穿多与（  ）有关，纯净液体的击穿场强（  ）含杂质液体。",
+    "options": [],
+    "answer": "杂质；高于",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 19,
+    "question": "局部放电是指（  ），常见于（  ）的电介质中。",
+    "options": [],
+    "answer": "介质局部区域放电，未贯通电极的放电现象；含有空隙或缺陷",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 20,
+    "question": "电介质的击穿电压Ub是指（  ），其与介质厚度d的关系为（  ）（忽略边缘效应）。",
+    "options": [],
+    "answer": "导致介质击穿的最小电压；Ub=Eb·d",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 21,
+    "question": "电极形状对击穿场强的影响表现为（  ），因此测量时需（  ）。",
+    "options": [],
+    "answer": "电极曲率半径越小，电场越集中，击穿场强越低；消除电极边缘的高电场集中效应",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 22,
+    "question": "环境温度升高时，电介质的击穿场强（  ），原因是（  ）。",
+    "options": [],
+    "answer": "降低；温度升高使介质电导率增大，热击穿更容易发生",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 23,
+    "question": "环境湿度增大时，固体介质的击穿场强（  ），原因是（  ）。",
+    "options": [],
+    "answer": "降低；介质表面吸附水膜，表面电导增大，易发生表面击穿",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 24,
+    "question": "气体介质的击穿场强与气压的关系为（  ），原因是（  ）。",
+    "options": [],
+    "answer": "气压越高，击穿场强越高；气压高时，气体分子密度大，电子碰撞次数多，不易积累足够能量产生碰撞电离",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 25,
+    "question": "本征击穿的发生时间（  ），热击穿的发生时间（  ），放电击穿的发生时间介于（  ）之间。",
+    "options": [],
+    "answer": "极短（微秒级以下）；较长（毫秒级以上）；两者",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 26,
+    "question": "交流电场下的击穿场强（  ）直流电场下的击穿场强，原因是（  ）。",
+    "options": [],
+    "answer": "低于；交流电场下介质存在周期性极化和损耗，易发热导致热击穿",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 27,
+    "question": "脉冲电场的脉宽越短，电介质的击穿场强（  ），原因是（  ）。",
+    "options": [],
+    "answer": "越高；脉宽短，介质来不及积累足够热量，热击穿不易发生，本征击穿占主导",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 28,
+    "question": "提高电介质击穿场强的方法有（  ）、（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "提高介质纯度；改善电极形状；优化环境条件（降低温度、湿度）；减少介质中的空隙和缺陷",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 29,
+    "question": "晶体介质的击穿场强（  ）非晶态介质，原因是（  ）。",
+    "options": [],
+    "answer": "高于；晶体结构规则，缺陷少，电子不易发生雪崩式倍增",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 30,
+    "question": "电介质的击穿过程是（  ）的过程，本征击穿是（  ）的积累，热击穿是（  ）的积累。",
+    "options": [],
+    "answer": "能量；电场能量；热能",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 31,
+    "question": "本征击穿的临界电场强度由（  ）决定，热击穿的临界电场强度由（  ）决定。",
+    "options": [],
+    "answer": "介质的电子结构；介质的热导率、电导率和散热条件",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 32,
+    "question": "液体介质的击穿可分为（  ）和（  ），纯净液体以（  ）为主，含杂质液体以（  ）为主。",
+    "options": [],
+    "answer": "本征击穿；杂质击穿；本征击穿；杂质击穿",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 33,
+    "question": "固体介质的击穿可分为（  ）、（  ）和（  ），在低温、短脉宽电场下以（  ）为主，在高温、长时电场下以（  ）为主。",
+    "options": [],
+    "answer": "本征击穿；热击穿；放电击穿；本征击穿；热击穿",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 34,
+    "question": "气体介质的绝缘恢复速度（  ）液体和固体介质，原因是（  ）。",
+    "options": [],
+    "answer": "快；气体分子流动性强，击穿后分子结构易恢复，无永久性损坏",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 35,
+    "question": "电晕放电的危害是（  ），防止方法是（  ）。",
+    "options": [],
+    "answer": "产生损耗、腐蚀电极、干扰通信；增大电极曲率半径，使电场均匀",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 36,
+    "question": "局部放电的危害是（  ），防止方法是（  ）。",
+    "options": [],
+    "answer": "逐步侵蚀介质，降低击穿场强，最终导致完全击穿；减少介质中的空隙和缺陷，提高介质纯度",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 37,
+    "question": "电介质的击穿场强测量时，试样需（  ），周围气氛需（  ）。",
+    "options": [],
+    "answer": "纯净无缺陷；仔细控制",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 38,
+    "question": "击穿场强Eb是表征电介质（  ）的重要参数，与（  ）、（  ）和（  ）并列。",
+    "options": [],
+    "answer": "基本性质；极化；电导；损耗",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 39,
+    "question": "理想电介质的击穿场强（  ），实际电介质的击穿场强（  ），原因是（  ）。",
+    "options": [],
+    "answer": "无穷大；有限；实际电介质存在杂质、缺陷和空隙",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 40,
+    "question": "电介质的击穿与极化的关系是（  ），强极化可能（  ）击穿。",
+    "options": [],
+    "answer": "极化过强可能导致局部电场集中；促进",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 41,
+    "question": "电介质的击穿与电导的关系是（  ），电导增大可能（  ）击穿。",
+    "options": [],
+    "answer": "电导增大导致介质发热；促进热",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 42,
+    "question": "电介质的击穿与损耗的关系是（  ），损耗增大可能（  ）击穿。",
+    "options": [],
+    "answer": "损耗增大导致介质发热；促进热",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 43,
+    "question": "气体介质的击穿电压随电极间距增大而（  ），当间距过大时，击穿电压增长（  ），原因是（  ）。",
+    "options": [],
+    "answer": "增大；变慢；电场不均匀性增加，边缘效应显著",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 44,
+    "question": "固体介质的击穿电压随厚度增加而（  ），当厚度过大时，击穿电压增长（  ），原因是（  ）。",
+    "options": [],
+    "answer": "增大；变慢；厚度增加使介质中的缺陷和杂质增多，易发生局部击穿",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 45,
+    "question": "液体介质的击穿电压随电极间距增大而（  ），与气体介质相比，增长（  ），原因是（  ）。",
+    "options": [],
+    "answer": "增大；更快；液体介质的电场均匀性更好，边缘效应影响小",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 46,
+    "question": "直流电场下，电介质的击穿具有（  ）效应，即击穿电压随加压时间（  ），原因是（  ）。",
+    "options": [],
+    "answer": "老化；延长而降低；长时间电场作用下，介质中的杂质和缺陷逐渐发展，电导和损耗增大",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 47,
+    "question": "交流电场下，电介质的击穿电压与频率有关，频率升高时，击穿电压（  ），原因是（  ）。",
+    "options": [],
+    "answer": "降低；频率升高使介质极化损耗增大，发热加剧，易发生热击穿",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 48,
+    "question": "脉冲电场下，电介质的击穿电压与脉宽有关，脉宽增大时，击穿电压（  ），原因是（  ）。",
+    "options": [],
+    "answer": "降低；脉宽增大使介质有足够时间积累热量，热击穿更容易发生",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 49,
+    "question": "电介质的击穿场强与温度的关系为（  ），低温时（  ）击穿占主导，高温时（  ）击穿占主导。",
+    "options": [],
+    "answer": "温度升高，击穿场强降低；本征；热",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 50,
+    "question": "改善电介质击穿性能的核心是（  ）、（  ）和（  ），减少（  ）的影响。",
+    "options": [],
+    "answer": "提高介质纯度；优化介质结构；改善工作条件；杂质、缺陷和热效应",
+    "type": "fill",
+    "section": "五、强电场下的介质击穿部分"
+  },
+  {
+    "id": 1,
+    "question": "电介质物理研究的四大核心内容是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "极化、电导、损耗、击穿"
+      },
+      {
+        "label": "B",
+        "content": "极化、电导、磁场、击穿"
+      },
+      {
+        "label": "C",
+        "content": "极化、电场、损耗、击穿"
+      },
+      {
+        "label": "D",
+        "content": "极化、电导、损耗、磁场"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 2,
+    "question": "表征电介质极化特性的宏观参数是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "电导率"
+      },
+      {
+        "label": "B",
+        "content": "介电常数"
+      },
+      {
+        "label": "C",
+        "content": "损耗角正切"
+      },
+      {
+        "label": "D",
+        "content": "击穿场强"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 3,
+    "question": "表征电介质电导特性的宏观参数是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "介电常数"
+      },
+      {
+        "label": "B",
+        "content": "电导率"
+      },
+      {
+        "label": "C",
+        "content": "损耗角正切"
+      },
+      {
+        "label": "D",
+        "content": "击穿场强"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 4,
+    "question": "表征电介质能量损耗的宏观参数是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "介电常数"
+      },
+      {
+        "label": "B",
+        "content": "电导率"
+      },
+      {
+        "label": "C",
+        "content": "损耗角正切"
+      },
+      {
+        "label": "D",
+        "content": "击穿场强"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 5,
+    "question": "表征电介质绝缘极限的宏观参数是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "介电常数"
+      },
+      {
+        "label": "B",
+        "content": "电导率"
+      },
+      {
+        "label": "C",
+        "content": "损耗角正切"
+      },
+      {
+        "label": "D",
+        "content": "击穿场强"
+      }
+    ],
+    "answer": "D",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 6,
+    "question": "真空介电常数ε₀的数值约为（  ）F/m",
+    "options": [
+      {
+        "label": "A",
+        "content": "8.85×10⁻¹²"
+      },
+      {
+        "label": "B",
+        "content": "8.85×10⁻¹⁰"
+      },
+      {
+        "label": "C",
+        "content": "1×10⁻¹²"
+      },
+      {
+        "label": "D",
+        "content": "1×10⁻¹⁰"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 7,
+    "question": "相对介电常数εᵣ是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "有量纲"
+      },
+      {
+        "label": "B",
+        "content": "纯数"
+      },
+      {
+        "label": "C",
+        "content": "小于1"
+      },
+      {
+        "label": "D",
+        "content": "等于1"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 8,
+    "question": "电偶极矩μ的定义式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "μ=q/l"
+      },
+      {
+        "label": "B",
+        "content": "μ=ql"
+      },
+      {
+        "label": "C",
+        "content": "μ=l/q"
+      },
+      {
+        "label": "D",
+        "content": "μ=q²l"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 9,
+    "question": "极化强度P的单位是（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "C/m"
+      },
+      {
+        "label": "B",
+        "content": "C/m²"
+      },
+      {
+        "label": "C",
+        "content": "F/m"
+      },
+      {
+        "label": "D",
+        "content": "S/m"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 10,
+    "question": "电位移矢量D的定义式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "D=ε₀E"
+      },
+      {
+        "label": "B",
+        "content": "D=ε₀E+P"
+      },
+      {
+        "label": "C",
+        "content": "D=εE+P"
+      },
+      {
+        "label": "D",
+        "content": "D=ε₀P"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 11,
+    "question": "高斯定理在有介质时的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "∮E·dS=Σq/ε₀"
+      },
+      {
+        "label": "B",
+        "content": "∮D·dS=Σq自由"
+      },
+      {
+        "label": "C",
+        "content": "∮E·dS=Σq自由"
+      },
+      {
+        "label": "D",
+        "content": "∮D·dS=Σq/ε₀"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 12,
+    "question": "平行极板电容器的电容量公式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "C=ε₀εᵣA/d"
+      },
+      {
+        "label": "B",
+        "content": "C=ε₀A/d"
+      },
+      {
+        "label": "C",
+        "content": "C=εᵣA/d"
+      },
+      {
+        "label": "D",
+        "content": "C=ε₀εᵣd/A"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 13,
+    "question": "电子位移极化的建立时间约为（  ）秒",
+    "options": [
+      {
+        "label": "A",
+        "content": "10⁻¹⁴～10⁻¹⁵"
+      },
+      {
+        "label": "B",
+        "content": "10⁻¹²～10⁻¹³"
+      },
+      {
+        "label": "C",
+        "content": "10⁻⁶～10⁻²"
+      },
+      {
+        "label": "D",
+        "content": "10⁰～10²"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 14,
+    "question": "转向极化的建立时间约为（  ）秒",
+    "options": [
+      {
+        "label": "A",
+        "content": "10⁻¹⁴～10⁻¹⁵"
+      },
+      {
+        "label": "B",
+        "content": "10⁻¹²～10⁻¹³"
+      },
+      {
+        "label": "C",
+        "content": "10⁻⁶～10⁻²"
+      },
+      {
+        "label": "D",
+        "content": "10⁰～10²"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 15,
+    "question": "克劳修斯-莫索缔方程的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "(ε-1)/(ε+2)=Nα/(3ε₀)"
+      },
+      {
+        "label": "B",
+        "content": "(ε+1)/(ε-2)=Nα/(3ε₀)"
+      },
+      {
+        "label": "C",
+        "content": "(ε-1)/(ε+2)=3Nα/ε₀"
+      },
+      {
+        "label": "D",
+        "content": "(ε+1)/(ε-2)=3Nα/ε₀"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 16,
+    "question": "德拜方程的核心是描述（  ）与频率的关系",
+    "options": [
+      {
+        "label": "A",
+        "content": "介电常数"
+      },
+      {
+        "label": "B",
+        "content": "电导率"
+      },
+      {
+        "label": "C",
+        "content": "击穿场强"
+      },
+      {
+        "label": "D",
+        "content": "极化强度"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 17,
+    "question": "介质损耗角正切tgδ的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "tgδ=ε′/ε″"
+      },
+      {
+        "label": "B",
+        "content": "tgδ=ε″/ε′"
+      },
+      {
+        "label": "C",
+        "content": "tgδ=γ/ε"
+      },
+      {
+        "label": "D",
+        "content": "tgδ=ε/γ"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 18,
+    "question": "复介电常数的虚部ε″=（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "γ/ω"
+      },
+      {
+        "label": "B",
+        "content": "ω/γ"
+      },
+      {
+        "label": "C",
+        "content": "γω"
+      },
+      {
+        "label": "D",
+        "content": "1/(γω)"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 19,
+    "question": "洛仑兹场的表达式为（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "Ei=E+P/(3ε₀)"
+      },
+      {
+        "label": "B",
+        "content": "Ei=E-P/(3ε₀)"
+      },
+      {
+        "label": "C",
+        "content": "Ei=E+3P/ε₀"
+      },
+      {
+        "label": "D",
+        "content": "Ei=E-3P/ε₀"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 20,
+    "question": "阿佛加德罗常数N₀的数值约为（  ）mol⁻¹",
+    "options": [
+      {
+        "label": "A",
+        "content": "6.06×10²³"
+      },
+      {
+        "label": "B",
+        "content": "6.06×10²¹"
+      },
+      {
+        "label": "C",
+        "content": "6.06×10²⁵"
+      },
+      {
+        "label": "D",
+        "content": "6.06×10²⁷"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 21,
+    "question": "玻尔兹曼常数k的数值约为（  ）J/K",
+    "options": [
+      {
+        "label": "A",
+        "content": "1.38×10⁻²³"
+      },
+      {
+        "label": "B",
+        "content": "1.38×10⁻²¹"
+      },
+      {
+        "label": "C",
+        "content": "1.38×10⁻²⁵"
+      },
+      {
+        "label": "D",
+        "content": "1.38×10⁻²⁷"
+      }
+    ],
+    "answer": "A",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 22,
+    "question": "电介质的电阻率范围通常为（  ）Ω·m",
+    "options": [
+      {
+        "label": "A",
+        "content": "10⁻⁸～10⁻⁶"
+      },
+      {
+        "label": "B",
+        "content": "10⁶～10⁸"
+      },
+      {
+        "label": "C",
+        "content": "10⁹～10²²"
+      },
+      {
+        "label": "D",
+        "content": "10²²～10³⁰"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 23,
+    "question": "半导体的禁带宽度约为（  ）eV",
+    "options": [
+      {
+        "label": "A",
+        "content": "0～0.5"
+      },
+      {
+        "label": "B",
+        "content": "0.5～1.5"
+      },
+      {
+        "label": "C",
+        "content": "1.5～7"
+      },
+      {
+        "label": "D",
+        "content": "7～10"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 24,
+    "question": "电介质的禁带宽度约为（  ）eV",
+    "options": [
+      {
+        "label": "A",
+        "content": "0～0.5"
+      },
+      {
+        "label": "B",
+        "content": "0.5～1.5"
+      },
+      {
+        "label": "C",
+        "content": "1.5～7"
+      },
+      {
+        "label": "D",
+        "content": "7～10"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 25,
+    "question": "空间电荷极化主要发生在（  ）中",
+    "options": [
+      {
+        "label": "A",
+        "content": "均匀介质"
+      },
+      {
+        "label": "B",
+        "content": "非均匀介质"
+      },
+      {
+        "label": "C",
+        "content": "极性介质"
+      },
+      {
+        "label": "D",
+        "content": "非极性介质"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 26,
+    "question": "离子位移极化主要发生在（  ）中",
+    "options": [
+      {
+        "label": "A",
+        "content": "非极性液体"
+      },
+      {
+        "label": "B",
+        "content": "离子晶体"
+      },
+      {
+        "label": "C",
+        "content": "极性气体"
+      },
+      {
+        "label": "D",
+        "content": "非晶态固体"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 27,
+    "question": "热离子极化属于（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "快极化"
+      },
+      {
+        "label": "B",
+        "content": "慢极化"
+      },
+      {
+        "label": "C",
+        "content": "电子极化"
+      },
+      {
+        "label": "D",
+        "content": "离子极化"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 28,
+    "question": "Cole-Cole图的核心是反映（  ）的分布",
+    "options": [
+      {
+        "label": "A",
+        "content": "介电常数"
+      },
+      {
+        "label": "B",
+        "content": "电导率"
+      },
+      {
+        "label": "C",
+        "content": "松弛时间"
+      },
+      {
+        "label": "D",
+        "content": "击穿场强"
+      }
+    ],
+    "answer": "C",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 29,
+    "question": "电介质的介电常数随温度升高而（  ）（非极性介质）",
+    "options": [
+      {
+        "label": "A",
+        "content": "增大"
+      },
+      {
+        "label": "B",
+        "content": "减小"
+      },
+      {
+        "label": "C",
+        "content": "不变"
+      },
+      {
+        "label": "D",
+        "content": "先增大后减小"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 30,
+    "question": "电介质的介电常数随频率升高而（  ）",
+    "options": [
+      {
+        "label": "A",
+        "content": "增大"
+      },
+      {
+        "label": "B",
+        "content": "减小"
+      },
+      {
+        "label": "C",
+        "content": "不变"
+      },
+      {
+        "label": "D",
+        "content": "先增大后减小"
+      }
+    ],
+    "answer": "B",
+    "type": "choice",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 1,
+    "question": "电介质是在电场作用下具有（  ）并能长期存在电场的物质，主要作用是（  ）。",
+    "options": [],
+    "answer": "极化能力；储能",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 2,
+    "question": "电介质与导体的本质区别是（  ），电介质在静电平衡下内部（  ）电场。",
+    "options": [],
+    "answer": "电介质内部无自由电荷，导体内部有自由电荷；仍有",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 3,
+    "question": "电介质的四大基本参数是（  ）、（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "介电常数ε；电导率γ；损耗角正切tgδ；击穿场强Eb",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 4,
+    "question": "电介质按聚集态可分为（  ）、（  ）和（  ），按分子电荷分布可分为（  ）和（  ）。",
+    "options": [],
+    "answer": "气体介质；液体介质；固体介质；极性介质；非极性介质",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 5,
+    "question": "库仑定律的表达式为（  ），其中εᵣ是（  ），K是（  ）。",
+    "options": [],
+    "answer": "F=K·q₁q₂/(εᵣr²)·r₁₂；相对介电常数；比例常数",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 6,
+    "question": "电场强度E的定义式为（  ），单位是（  ）。",
+    "options": [],
+    "answer": "E=F/q；V/m（或N/C）",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 7,
+    "question": "电势φ的定义是（  ），单位是（  ）。",
+    "options": [],
+    "answer": "单位正电荷从该点移到无穷远处电场力所作的功；伏特（V）",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 8,
+    "question": "电力线的三个性质是（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "起始于正电荷或无穷远，终止于负电荷或无穷远，不中断；不相交；不闭合",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 9,
+    "question": "电通量的定义式为（  ），通过闭合面的电通量与（  ）有关。",
+    "options": [],
+    "answer": "dΦ=E·dS；闭合面所包围的电量代数和",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 10,
+    "question": "极化强度P的定义是（  ），与束缚电荷面密度σ'的关系为（  ）（法线平行于电场）。",
+    "options": [],
+    "answer": "电介质每单位体积的偶极矩；P=σ'",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 11,
+    "question": "线性电介质的极化强度P与电场强度E的关系为（  ），其中χ是（  ）。",
+    "options": [],
+    "answer": "P=χε₀E；极化系数",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 12,
+    "question": "极化系数χ与相对介电常数εᵣ的关系为（  ）。",
+    "options": [],
+    "answer": "χ=εᵣ-1",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 13,
+    "question": "电位移矢量D与电场强度E的关系为（  ），在各向同性电介质中为（  ）。",
+    "options": [],
+    "answer": "D=ε₀E+P；D=ε₀εᵣE",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 14,
+    "question": "常见的极化类型有（  ）、（  ）、（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "电子位移极化；离子位移极化；转向极化；热离子极化；空间电荷极化",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 15,
+    "question": "电子位移极化的极化率αₑ=（  ），与（  ）成正比。",
+    "options": [],
+    "answer": "4πε₀r³；原子半径的立方",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 16,
+    "question": "转向极化的极化率α_d=（  ），与（  ）成反比。",
+    "options": [],
+    "answer": "μ₀²/(3kT)；绝对温度T",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 17,
+    "question": "热离子极化的极化率α_T=（  ），与（  ）成反比。",
+    "options": [],
+    "answer": "q²δ²/(12kT)；绝对温度T",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 18,
+    "question": "克劳修斯-莫索缔方程建立了（  ）与（  ）之间的关系。",
+    "options": [],
+    "answer": "宏观介电常数ε；微观分子极化率α",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 19,
+    "question": "洛仑兹场适用于（  ）、（  ）和（  ）等介质。",
+    "options": [],
+    "answer": "低气压气体；非极性液体；具有立方点阵结构的离子晶体",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 20,
+    "question": "德拜方程适用于（  ）的电介质，描述了（  ）与频率的关系。",
+    "options": [],
+    "answer": "单一松弛时间；介电常数和损耗因子",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 21,
+    "question": "介质损耗的三种机构是（  ）、（  ）和（  ）。",
+    "options": [],
+    "answer": "漏导损耗；极化滞后损耗；共振损耗",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 22,
+    "question": "直流电场下的介质损耗功率P=（  ），交变电场下的介质损耗功率P=（  ）。",
+    "options": [],
+    "answer": "U²/R；UIcosφ（或U²ωCtgδ）",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 23,
+    "question": "绝缘电阻R的定义式为（  ），与电导率γ的关系为（  ）。",
+    "options": [],
+    "answer": "R=U/I；R=1/(γA/d)（或R=d/(γA)）",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 24,
+    "question": "电介质的击穿场强Eb是（  ）与（  ）的比值。",
+    "options": [],
+    "answer": "击穿电压Ub；介质厚度d",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 25,
+    "question": "气体介质的击穿是由于（  ），固体介质的击穿主要有（  ）和（  ）两种类型。",
+    "options": [],
+    "answer": "碰撞电离导致载流子雪崩增长；本征击穿；热击穿",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 26,
+    "question": "复介电常数的表达式为（  ），实部反映（  ），虚部反映（  ）。",
+    "options": [],
+    "answer": "ε*=ε′-iε″；极化能力；能量损耗",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 27,
+    "question": "介质损耗角δ是（  ）与（  ）的相位差，tgδ=（  ）。",
+    "options": [],
+    "answer": "电容电流Ic；合成电流I；ε″/ε′",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 28,
+    "question": "弛豫时间τ是描述（  ）的物理量，与温度的关系为（  ）。",
+    "options": [],
+    "answer": "松弛极化建立和衰减速度；τ随温度升高呈指数减小",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 29,
+    "question": "Cole-Cole图是以（  ）为横轴，（（  ）为纵轴，单一松弛时间的图形为（  ）。",
+    "options": [],
+    "answer": "ε′；ε″；半圆",
+    "type": "fill",
+    "section": "六、综合基础题"
+  },
+  {
+    "id": 30,
+    "question": "电介质物理的研究目的是（  ），为（  ）提供科学依据。",
+    "options": [],
+    "answer": "揭示电介质基本特性的物理本质，探讨电场作用下物理过程与结构组成的规律；研制、开发、应用新型电介质",
+    "type": "fill",
+    "section": "六、综合基础题"
+  }
+]

@@ -1,0 +1,347 @@
+{
+  "nodes": [
+    {
+      "id": "root", 
+      "name": "电介质物理", 
+      "category": "root", 
+      "symbolSize": 70,
+      "description": "研究电介质在电场作用下的极化、电导、损耗、击穿等宏观与微观过程的物理学科。",
+      "details": "**电介质物理**是现代电子技术的基础。\n\n主要应用领域：\n- **电容器**：储能与滤波\n- **绝缘技术**：高压输电、电力设备\n- **微电子**：MOSFET 栅极氧化层、高 K 介质\n- **传感器**：压电、热释电传感器"
+    },
+
+    {
+      "id": "prof_li",
+      "name": "李玲霞教授",
+      "category": "expert",
+      "symbolSize": 60,
+      "image": "/lilingxia.png",
+      "description": "天津大学英才教授，博士生导师，全球前2%顶尖科学家。",
+      "details": "### 👤 基本情况\n**李玲霞**，天津大学英才教授，博士生导师，教育部新世纪优秀人才。\n\n长期从事新型电子信息功能材料和高性能电子元器件的研究工作。\n\n### 🏆 学术荣誉\n- **全球前2%顶尖科学家**\n- **天津市五一劳动奖章**\n- **天津市师德先进个人**\n- **天津大学建校120周年杰出贡献奖**\n- 教育部科技进步奖、天津市技术发明奖\n\n### 🔬 学术兼职\n- 电子元器件关键材料与技术专业委员会副主任委员\n- 天津市硅酸盐学会理事\n- 中国电子材料与元器件产学研协同创新平台专家委员会委员\n\n### 📚 科研成果\n主持国家863计划、国家重点研发计划、国家自然科学基金等项目 **50余项**。在 *Acta Mater.*, *Appl. Phys. Lett.* 等重要期刊发表 SCI 论文 **200余篇**，获授权发明专利近百项。"
+    },
+    {
+      "id": "ltcc",
+      "name": "LTCC技术",
+      "category": "research_focus",
+      "symbolSize": 35,
+      "description": "低温共烧陶瓷 (Low Temperature Co-fired Ceramic) 技术。",
+      "details": "**LTCC** 是一种将未烧结的流延陶瓷片与金属电极浆料在较低温度（<900°C）下共烧的三维互连技术。\n\n**关键优势**：\n- 高频性能优异\n- 可埋入无源元件（电容、电感）\n- 适合高密度封装\n\n**李玲霞课题组**在该领域有深厚积累，致力于高性能 LTCC 材料的开发与应用。",
+      "formula": ""
+    },
+    {
+      "id": "microwave_ceramics",
+      "name": "微波介质陶瓷",
+      "category": "research_focus",
+      "symbolSize": 35,
+      "description": "应用于微波频段（300MHz~300GHz）电路中的陶瓷材料。",
+      "details": "主要用于制作谐振器、滤波器、介质天线等。\n\n**三大核心指标**：\n1. **介电常数** $\\varepsilon_r$：决定器件尺寸（$\\lambda \\propto 1/\\sqrt{\\varepsilon_r}$）\n2. **品质因数** $Q \\times f$：决定插损和选频性能\n3. **频率温度系数** $\\tau_f$：决定器件的热稳定性",
+      "formula": "Q \\times f = \\text{const}"
+    },
+    {
+      "id": "advanced_ceramics",
+      "name": "先进电子陶瓷",
+      "category": "research_focus",
+      "symbolSize": 35,
+      "description": "具有特殊电、磁、光、声、热等性质的陶瓷材料。",
+      "details": "涵盖了铁电、压电、热释电、半导体陶瓷等。\n\n**应用**：\n- 5G/6G 通信\n- 航空航天\n- 新能源汽车",
+      "formula": ""
+    },
+
+    {
+      "id": "overview",
+      "name": "概述与发展",
+      "category": "overview",
+      "symbolSize": 40,
+      "description": "电介质物理学科的发展历程与核心研究范畴。"
+    },
+    {
+      "id": "history_cn",
+      "name": "中国贡献",
+      "category": "history",
+      "symbolSize": 30,
+      "description": "中国科学家在电介质物理领域的重要贡献。",
+      "details": "中国老一辈科学家做出了卓越贡献：\n\n* **陈季丹** (西安交通大学)：\n  * 我国电介质物理与绝缘技术学科的奠基人\n  * 创建了中国第一个绝缘研究室\n\n* **方俊鑫** (复旦大学)：\n  * 推动了固体光学与电介质物理的结合\n\n* **姚熹** (西安交通大学/同济大学)：\n  * 中科院院士\n  * 国际著名的铁电陶瓷专家\n  * 深入研究了弛豫铁电体微区理论"
+    },
+    
+    {
+      "id": "polarization", 
+      "name": "电介质极化", 
+      "category": "phenomenon", 
+      "symbolSize": 50,
+      "description": "电介质在电场作用下产生感应电矩的过程。",
+      "details": "极化是电介质最基本的物理过程。\n\n**核心关系**：\n$P = \\varepsilon_0(\\varepsilon_r - 1)E$\n\n其中：\n- $P$: 极化强度 (C/m²)\n- $\\varepsilon_r$: 相对介电常数\n- $E$: 宏观电场强度",
+      "formula": "P = N\\vec{\\mu} = \\varepsilon_0(\\varepsilon_r - 1)\\vec{E}"
+    },
+    {
+      "id": "static_polar",
+      "name": "恒定电场极化",
+      "category": "mechanism",
+      "symbolSize": 30,
+      "description": "在直流电场下的极化平衡状态。",
+      "details": "平行板电容器模型：\n\n1. **真空**：$C_0 = \\varepsilon_0 S / d$\n2. **介质**：$C = \\varepsilon_r C_0$\n3. **电位移**：$D = \\varepsilon_0 E + P = \\varepsilon E$"
+    },
+    {
+      "id": "elec_polar", 
+      "name": "电子位移极化", 
+      "category": "mechanism", 
+      "symbolSize": 25,
+      "description": "电子云相对于原子核的弹性位移。",
+      "details": "**特征**：\n- **响应速度极快**：建立时间 $\\approx 10^{-15}s$ (光频)\n- **普遍存在**：所有电介质中都存在\n- **无损耗**：本质是弹性位移，无能量耗散\n- **温度无关**：受温度影响极小",
+      "formula": "\\alpha_e = 4\\pi\\varepsilon_0 R^3"
+    },
+    {
+      "id": "ion_polar", 
+      "name": "离子位移极化", 
+      "category": "mechanism", 
+      "symbolSize": 25,
+      "description": "正负离子发生相对弹性位移。",
+      "details": "**特征**：\n- **响应时间**：$\\approx 10^{-13}s$ (红外频段)\n- **材料**：仅存在于离子晶体中 (如 NaCl, Al₂O₃)\n- **温度依赖**：随温度升高略有增加（晶格膨胀导致恢复力减弱）",
+      "formula": "\\alpha_i = \\frac{q^2}{K}"
+    },
+    {
+      "id": "orient_polar", 
+      "name": "取向极化", 
+      "category": "mechanism", 
+      "symbolSize": 25,
+      "description": "极性分子固有偶极矩沿电场方向的统计取向。",
+      "details": "**特征**：\n- **响应时间**：$10^{-2} \\sim 10^{-10}s$ (无线电频段)\n- **温度依赖强**：$T \\uparrow \\Rightarrow \\alpha_d \\downarrow$ (热运动干扰取向)\n- **能量损耗**：伴随显著的介电损耗",
+      "formula": "\\alpha_d = \\frac{\\mu_0^2}{3kT}"
+    },
+    {
+      "id": "space_charge_polar", 
+      "name": "空间电荷极化", 
+      "category": "mechanism", 
+      "symbolSize": 25,
+      "description": "载流子在非均匀介质界面或电极处的堆积。",
+      "details": "**特征**：\n- **响应时间慢**：秒级甚至分钟级\n- **发生场所**：多晶陶瓷晶界、复合材料界面\n- **温度特性**：随温度升高显著增强（离子扩散加快）"
+    },
+    {
+      "id": "thermal_ion_polar",
+      "name": "热离子极化",
+      "category": "mechanism",
+      "symbolSize": 25,
+      "description": "弱束缚离子的热激活跃迁。",
+      "details": "常见于含杂质或缺陷的离子结构中（如玻璃）。\n\n极化率公式：\n$\\alpha_T = \\frac{q^2\\delta^2}{12kT}$",
+      "formula": "\\alpha_T = \\frac{q^2\\delta^2}{12kT}"
+    },
+
+    {
+      "id": "conduction",
+      "name": "电介质电导",
+      "category": "phenomenon",
+      "symbolSize": 45,
+      "description": "电场作用下微弱电流的传导机制。",
+      "details": "电介质虽然是绝缘体，但仍存在微弱的漏电流。\n\n**载流子来源**：\n- 杂质离子\n- 电子/空穴 (高场下)\n\n遵循规律：\n- **低场**：欧姆定律\n- **高场**：普尔-弗朗克效应、隧道效应",
+      "formula": "\\gamma = nq\\mu"
+    },
+    {
+      "id": "solid_cond",
+      "name": "固体电导",
+      "category": "conduction_type",
+      "symbolSize": 25,
+      "description": "离子电导（主要）与电子电导。",
+      "details": "基于离子跳跃模型：\n\n1. **本征离子电导**：由晶格缺陷（Schottky/Frenkel）引起，高温主导。\n2. **杂质离子电导**：由杂质引入，低温主导。\n\n电导率随温度呈指数上升：$\\gamma \\propto e^{-U/kT}$",
+      "formula": "\\gamma = A e^{-\\frac{U}{kT}}"
+    },
+    {
+      "id": "liquid_cond",
+      "name": "液体电导",
+      "category": "conduction_type",
+      "symbolSize": 25,
+      "description": "离子电导与电泳电导。",
+      "details": "**Walden 定律**：\n$\\gamma \\eta = \\text{const}$\n(电导率与粘度成反比)\n\n来源：\n- 液体本身的解离\n- 杂质离子的运动\n- 带电胶体粒子的电泳"
+    },
+    {
+      "id": "gas_cond",
+      "name": "气体电导",
+      "category": "conduction_type",
+      "symbolSize": 25,
+      "description": "由电离产生的正负离子导电。",
+      "details": "**电离机制**：\n- 外界因素（紫外线、X射线）\n- 热电离\n- 碰撞电离\n\n饱和区：所有产生的离子都被电极收集，电流不随电压增加。",
+      "formula": "n = \\sqrt{\\frac{N}{\\xi}}"
+    },
+    {
+      "id": "surface_cond",
+      "name": "表面电导",
+      "category": "conduction_type",
+      "symbolSize": 25,
+      "description": "电流沿介质表面流动。",
+      "details": "表面电导往往比体积电导大几个数量级。\n\n**影响因素**：\n1. **表面水膜**：亲水材料表面吸附水分，离子化程度高。\n2. **表面污秽**：灰尘、盐分溶解后导电。",
+      "formula": "\\gamma_s = \\frac{I_s l}{U S}"
+    },
+
+    {
+      "id": "loss", 
+      "name": "介电损耗", 
+      "category": "phenomenon", 
+      "symbolSize": 45,
+      "description": "单位时间内电介质在电场作用下耗散的能量。",
+      "details": "衡量指标：**损耗角正切** $\\tan\\delta$\n\n分类：\n- **电导损耗** (Leakage)\n- **极化损耗** (Relaxation)\n- **结构损耗** (Resonance)\n- **电离损耗** (Partial Discharge)",
+      "formula": "P = \\omega C U^2 \\tan\\delta"
+    },
+    {
+      "id": "complex_perm",
+      "name": "复介电常数",
+      "category": "theory_detail",
+      "symbolSize": 30,
+      "description": "描述交变电场下介质响应的复数参数。",
+      "details": "定义：$\\varepsilon^* = \\varepsilon' - i\\varepsilon''$\n\n- **实部 $\\varepsilon'$**：代表储能能力（电容率）\n- **虚部 $\\varepsilon''$**：代表损耗能力\n\n关系：$\\tan\\delta = \\frac{\\varepsilon''}{\\varepsilon'}$",
+      "formula": "\\varepsilon^* = \\varepsilon' - i\\varepsilon''"
+    },
+    {
+      "id": "cond_loss", 
+      "name": "电导损耗", 
+      "category": "loss_type", 
+      "symbolSize": 20,
+      "description": "由漏导电流引起的损耗。",
+      "details": "**特征**：\n- 频率特性：$\\tan\\delta \\propto 1/\\omega$\n- 温度特性：随温度升高指数增加\n\n低频下主要由电导损耗决定。",
+      "formula": "\\tan\\delta = \\frac{\\gamma}{\\omega\\varepsilon}"
+    },
+    {
+      "id": "relax_loss", 
+      "name": "弛豫损耗", 
+      "category": "loss_type", 
+      "symbolSize": 20,
+      "description": "极化建立滞后于电场变化引起的损耗。",
+      "details": "符合 **Debye 方程**。\n\n- **频率峰值**：当 $\\omega \\tau = 1$ 时，损耗最大。\n- **温度峰值**：固定频率下，存在一个损耗最大的温度点。",
+      "formula": "\\tan\\delta \\propto \\frac{\\omega\\tau}{1 + \\omega^2\\tau^2}"
+    },
+    {
+      "id": "equiv_circuit",
+      "name": "等效电路",
+      "category": "theory_detail",
+      "symbolSize": 20,
+      "description": "描述有损电介质的电路模型。",
+      "details": "- **并联等效** ($R_p, C_p$)：适用于大多数工程测试电桥。\n- **串联等效** ($R_s, C_s$)：适用于高频低损耗情况。\n\n互换关系：$\\tan\\delta = \\frac{1}{\\omega C_p R_p} = \\omega C_s R_s$",
+      "formula": "\\tan\\delta = \\omega C_s R_s = \\frac{1}{\\omega C_p R_p}"
+    },
+
+    {
+      "id": "breakdown", 
+      "name": "电介质击穿", 
+      "category": "phenomenon", 
+      "symbolSize": 45,
+      "description": "强电场下绝缘能力丧失的现象。",
+      "details": "击穿是不可逆的破坏性过程（气体除外）。\n\n关键参数：\n- **击穿电压** $U_b$\n- **击穿场强** $E_b = U_b / d$",
+      "formula": "E_b = \\frac{U_b}{d}"
+    },
+    {
+      "id": "elec_breakdown", 
+      "name": "电击穿", 
+      "category": "breakdown_type", 
+      "symbolSize": 25,
+      "description": "电子雪崩或场致发射导致的击穿。",
+      "details": "**特征**：\n- **速度极快**：微秒 ($\\\\mu s$) 甚至纳秒级\n- **场强高**：接近材料本征强度 ($10^6$ V/cm)\n- **温度无关**：在一定范围内不随温度变化\n- **机制**：电子在电场中获得能量 > 晶格散射损失能量",
+      "formula": ""
+    },
+    {
+      "id": "thermal_breakdown", 
+      "name": "热击穿", 
+      "category": "breakdown_type", 
+      "symbolSize": 25,
+      "description": "介质内部发热超过散热导致的击穿。",
+      "details": "**特征**：\n- **速度较慢**：毫秒级以上\n- **温度依赖**：环境温度越高，击穿电压越低\n- **积累效应**：热量积累过程",
+      "formula": "Q_{gen} > Q_{diss}"
+    },
+    {
+      "id": "gas_breakdown", 
+      "name": "气体击穿", 
+      "category": "breakdown_type", 
+      "symbolSize": 25,
+      "description": "气体在高场下的放电现象。",
+      "details": "**Paschen 定律**：\n击穿电压 $U_b$ 是气压 $P$ 与极间距离 $d$ 乘积的函数。\n\n$U_b = f(Pd)$\n\n存在一个最低击穿电压点 (Paschen minimum)。",
+      "formula": "U_b = \\frac{B(Pd)}{C + \\ln(Pd)}"
+    },
+    
+    {
+      "id": "clausius_mossotti",
+      "name": "Clausius-Mossotti方程",
+      "category": "theory",
+      "symbolSize": 35,
+      "description": "联系宏观介电常数与微观极化率的方程。",
+      "details": "适用于非极性分子介质。\n\n$\\frac{\\varepsilon_r - 1}{\\varepsilon_r + 2} = \\frac{N\\alpha}{3\\varepsilon_0}$",
+      "formula": "\\frac{\\varepsilon_r - 1}{\\varepsilon_r + 2} = \\frac{N\\alpha}{3\\varepsilon_0}"
+    },
+    {
+      "id": "debye_eq",
+      "name": "Debye方程",
+      "category": "theory",
+      "symbolSize": 35,
+      "description": "描述极性液体介电常数与频率的关系。",
+      "details": "考虑了取向极化的弛豫效应。\n\n$\\varepsilon^* = \\varepsilon_\\infty + \\frac{\\varepsilon_s - \\varepsilon_\\infty}{1 + i\\omega\\tau}$",
+      "formula": "\\varepsilon^* = \\varepsilon_\\infty + \\frac{\\varepsilon_s - \\varepsilon_\\infty}{1 + i\\omega\\tau}"
+    },
+    {
+      "id": "cole_cole",
+      "name": "Cole-Cole圆",
+      "category": "theory_detail",
+      "symbolSize": 25,
+      "description": "复介电常数实部与虚部的关系图。",
+      "details": "在复平面上，$\\varepsilon''$ 对 $\\varepsilon'$ 作图为半圆（单一弛豫时间）或圆弧（分布弛豫时间）。"
+    },
+    {
+      "id": "lyddane_sachs_teller",
+      "name": "LST关系",
+      "category": "theory",
+      "symbolSize": 30,
+      "description": "联系晶体介电常数与光学声子频率。",
+      "details": "$\\frac{\\varepsilon_s}{\\varepsilon_\\infty} = \\frac{\\omega_L^2}{\\omega_T^2}$\n\n揭示了铁电相变的软模机制。",
+      "formula": "\\frac{\\varepsilon_s}{\\varepsilon_\\infty} = \\frac{\\omega_L^2}{\\omega_T^2}"
+    }
+  ],
+  "links": [
+    {"source": "root", "target": "overview"},
+    {"source": "root", "target": "prof_li"},
+    {"source": "root", "target": "polarization"},
+    {"source": "root", "target": "conduction"},
+    {"source": "root", "target": "loss"},
+    {"source": "root", "target": "breakdown"},
+    {"source": "overview", "target": "history_cn"},
+    
+    {"source": "prof_li", "target": "ltcc"},
+    {"source": "prof_li", "target": "microwave_ceramics"},
+    {"source": "prof_li", "target": "advanced_ceramics"},
+    {"source": "ltcc", "target": "root"},
+    {"source": "microwave_ceramics", "target": "loss"},
+    {"source": "advanced_ceramics", "target": "polarization"},
+    
+    {"source": "polarization", "target": "static_polar"},
+    {"source": "polarization", "target": "clausius_mossotti"},
+    {"source": "polarization", "target": "debye_eq"},
+    {"source": "polarization", "target": "lyddane_sachs_teller"},
+    {"source": "static_polar", "target": "elec_polar"},
+    {"source": "static_polar", "target": "ion_polar"},
+    {"source": "static_polar", "target": "orient_polar"},
+    {"source": "static_polar", "target": "space_charge_polar"},
+    {"source": "static_polar", "target": "thermal_ion_polar"},
+    
+    {"source": "conduction", "target": "solid_cond"},
+    {"source": "conduction", "target": "liquid_cond"},
+    {"source": "conduction", "target": "gas_cond"},
+    {"source": "conduction", "target": "surface_cond"},
+    
+    {"source": "loss", "target": "complex_perm"},
+    {"source": "loss", "target": "equiv_circuit"},
+    {"source": "complex_perm", "target": "cond_loss"},
+    {"source": "complex_perm", "target": "relax_loss"},
+    {"source": "relax_loss", "target": "cole_cole"},
+    
+    {"source": "breakdown", "target": "elec_breakdown"},
+    {"source": "breakdown", "target": "thermal_breakdown"},
+    {"source": "breakdown", "target": "gas_breakdown"},
+    {"source": "gas_breakdown", "target": "gas_cond"}
+  ],
+  "categories": [
+    {"name": "root"},
+    {"name": "overview"},
+    {"name": "history"},
+    {"name": "phenomenon"},
+    {"name": "mechanism"},
+    {"name": "conduction_type"},
+    {"name": "loss_type"},
+    {"name": "breakdown_type"},
+    {"name": "theory"},
+    {"name": "theory_detail"},
+    {"name": "expert"},
+    {"name": "research_focus"}
+  ]
+}
