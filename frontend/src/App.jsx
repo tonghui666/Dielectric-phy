@@ -98,9 +98,16 @@ function App() {
     const fetchData = async () => {
       try {
         const response = await axios.get('/api/graph');
+        if (response.data && response.data.error) {
+            console.error('Backend Error:', response.data.error);
+            message.error(`数据加载失败: ${response.data.error}`);
+            setLoading(false);
+            return;
+        }
         setGraphData(response.data);
       } catch (error) {
         console.error('Error fetching graph data:', error);
+        message.error('网络请求失败，请检查网络或服务器状态');
       } finally {
         setLoading(false);
       }
