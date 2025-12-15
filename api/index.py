@@ -14,15 +14,43 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/api/status")
+def get_status():
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    try:
+        files = os.listdir(base_dir)
+    except Exception as e:
+        files = str(e)
+    return {
+        "status": "ok",
+        "cwd": os.getcwd(),
+        "base_dir": base_dir,
+        "files_in_base_dir": files
+    }
+
+def find_file(filename):
+    # Try multiple locations
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    candidates = [
+        os.path.join(base_dir, filename),
+        os.path.join(os.getcwd(), filename),
+        os.path.join(os.getcwd(), "api", filename),
+        filename 
+    ]
+    
+    for path in candidates:
+        if os.path.exists(path):
+            return path
+    return None
+
 @app.get("/api/graph")
 def get_graph():
     try:
-        # 获取当前脚本所在目录
-        base_dir = os.path.dirname(os.path.abspath(__file__))
-        file_path = os.path.join(base_dir, "data.json")
+        file_path = find_file("data.json")
         
-        if not os.path.exists(file_path):
-            return {"error": f"File not found: {file_path}", "cwd": os.getcwd(), "ls": os.listdir(base_dir)}
+        if not file_path:
+            base_dir = os.path.dirname(os.path.abspath(__file__))
+            return {"error": f"data.json not found", "searched_in": base_dir, "cwd": os.getcwd()}
 
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -33,11 +61,11 @@ def get_graph():
 @app.get("/api/quiz")
 def get_quiz():
     try:
-        base_dir = os.path.dirname(os.path.abspath(__file__))
-        file_path = os.path.join(base_dir, "questions.json")
+        file_path = find_file("questions.json")
         
-        if not os.path.exists(file_path):
-            return {"error": f"Quiz data not found: {file_path}", "cwd": os.getcwd(), "ls": os.listdir(base_dir)}
+        if not file_path:
+            base_dir = os.path.dirname(os.path.abspath(__file__))
+            return {"error": f"questions.json not found", "searched_in": base_dir}
             
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
