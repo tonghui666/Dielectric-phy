@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from 'react';
 import ReactECharts from 'echarts-for-react';
 import axios from 'axios';
 import { Layout, Typography, Spin, Drawer, Tag, Empty, Select, FloatButton, message, Switch, Modal, Button, Radio, Segmented, Tour, Input } from 'antd';
-import { ExperimentOutlined, ThunderboltOutlined, ReadOutlined, HistoryOutlined, BulbOutlined, SearchOutlined, CameraOutlined, ReloadOutlined, CompressOutlined, MoonOutlined, SunOutlined, TrophyOutlined, AppstoreOutlined, DeploymentUnitOutlined, UserOutlined, InfoCircleOutlined, QuestionCircleOutlined } from '@ant-design/icons';
+import { ExperimentOutlined, ThunderboltOutlined, ReadOutlined, HistoryOutlined, BulbOutlined, SearchOutlined, CameraOutlined, ReloadOutlined, CompressOutlined, MoonOutlined, SunOutlined, TrophyOutlined, AppstoreOutlined, DeploymentUnitOutlined, UserOutlined, InfoCircleOutlined, QuestionCircleOutlined, RobotOutlined, SendOutlined } from '@ant-design/icons';
 import 'katex/dist/katex.min.css';
 import { BlockMath } from 'react-katex';
 import ReactMarkdown from 'react-markdown';
@@ -39,6 +39,14 @@ function App() {
   const [tourOpen, setTourOpen] = useState(false);
   const [viewHistory, setViewHistory] = useState([]);
   
+  // Chat state
+  const [chatOpen, setChatOpen] = useState(false);
+  const [chatInput, setChatInput] = useState('');
+  const [chatMessages, setChatMessages] = useState([
+    { role: 'system', content: '你好！我是你的电介质物理智能助教。有什么我可以帮你的吗？' }
+  ]);
+  const [chatLoading, setChatLoading] = useState(false);
+
   const refSearch = useRef(null);
   const refLayout = useRef(null);
   const refQuiz = useRef(null);
@@ -235,6 +243,29 @@ function App() {
           dataIndex: graphData.nodes.findIndex(n => n.id === value)
         });
       }
+    }
+  };
+  
+  const handleChatSubmit = async () => {
+    if (!chatInput.trim()) return;
+    
+    const userMsg = chatInput;
+    setChatMessages(prev => [...prev, { role: 'user', content: userMsg }]);
+    setChatInput('');
+    setChatLoading(true);
+    
+    try {
+      const response = await axios.post('/api/chat', { message: userMsg });
+      if (response.data && response.data.answer) {
+        setChatMessages(prev => [...prev, { role: 'assistant', content: response.data.answer }]);
+      } else {
+         setChatMessages(prev => [...prev, { role: 'assistant', content: '抱歉，服务器暂时没有响应。' }]);
+      }
+    } catch (error) {
+      console.error('Chat error:', error);
+      setChatMessages(prev => [...prev, { role: 'assistant', content: '网络请求出错，请稍后再试。' }]);
+    } finally {
+      setChatLoading(false);
     }
   };
 
@@ -631,9 +662,71 @@ function App() {
         </Drawer>
 
         <FloatButton.Group shape="circle" style={{ right: 24, bottom: 24 }}>
+          <FloatButton icon={<RobotOutlined />} tooltip="AI 助教" onClick={() => setChatOpen(true)} type="primary" style={{ right: 24, bottom: 80 }} />
           <FloatButton icon={<ReloadOutlined />} tooltip="重置视图" onClick={handleResetView} />
           <FloatButton icon={<CameraOutlined />} tooltip="导出图片" onClick={handleExportImage} />
         </FloatButton.Group>
+        
+        <Drawer
+          title={
+            <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+              <RobotOutlined style={{ color: '#1890ff', fontSize: '24px' }} />
+              <span>AI 智能助教 (RAG)</span>
+            </div>
+          }
+          placement="right"
+          onClose={() => setChatOpen(false)}
+          open={chatOpen}
+          width={400}
+          mask={false}
+          style={{ boxShadow: '-4px 0 16px rgba(0,0,0,0.1)' }}
+        >
+          <div style={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
+            <div style={{ flex: 1, overflowY: 'auto', paddingBottom: 16 }}>
+              {chatMessages.map((msg, index) => (
+                <div key={index} style={{ 
+                  marginBottom: 16, 
+                  textAlign: msg.role === 'user' ? 'right' : 'left' 
+                }}>
+                  <div style={{ 
+                    display: 'inline-block',
+                    padding: '10px 14px',
+                    borderRadius: '12px',
+                    background: msg.role === 'user' ? '#1890ff' : (isDarkMode ? '#333' : '#f0f2f5'),
+                    color: msg.role === 'user' ? '#fff' : (isDarkMode ? '#fff' : '#000'),
+                    maxWidth: '85%',
+                    textAlign: 'left',
+                    whiteSpace: 'pre-wrap'
+                  }}>
+                    {msg.role === 'assistant' ? (
+                      <ReactMarkdown 
+                        children={msg.content} 
+                        remarkPlugins={[remarkMath]} 
+                        rehypePlugins={[rehypeKatex]}
+                      />
+                    ) : msg.content}
+                  </div>
+                </div>
+              ))}
+              {chatLoading && (
+                <div style={{ textAlign: 'left' }}>
+                  <Spin size="small" /> 思考中...
+                </div>
+              )}
+            </div>
+            
+            <div style={{ borderTop: '1px solid #f0f0f0', paddingTop: 16, display: 'flex', gap: 8 }}>
+              <Input 
+                value={chatInput}
+                onChange={e => setChatInput(e.target.value)}
+                onPressEnter={handleChatSubmit}
+                placeholder="问问AI关于电介质的问题..."
+                disabled={chatLoading}
+              />
+              <Button type="primary" icon={<SendOutlined />} onClick={handleChatSubmit} loading={chatLoading} />
+            </div>
+          </div>
+        </Drawer>
 
         <Modal
           title={
