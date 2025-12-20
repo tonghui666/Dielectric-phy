@@ -369,60 +369,67 @@ body {
       min-height: 64px;
       flex-direction: column;
       gap: 12px;
-      justify-content: flex-start;
-      align-items: stretch; /* Stretch children to fill width */
+      align-items: flex-start; /* Changed from stretch to flex-start */
     }
   
     .header-title {
       width: 100%;
-      justify-content: flex-start; /* Align logo and text to left */
-      margin-bottom: 4px !important;
+      display: flex; /* Ensure flex layout */
+      flex-direction: row; /* Horizontal layout for logo and text */
+      align-items: center; /* Vertically center */
+      margin-bottom: 8px !important;
     }
     
     .header-title img {
-      height: 32px; /* Smaller logo */
-      width: auto;
+      height: 32px;
+      width: 32px; /* Fixed width */
       margin-right: 12px;
+      flex-shrink: 0; /* Prevent shrinking */
+    }
+    
+    .header-title > div { /* Target the text container specifically */
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
     }
 
     .header-title h4 {
-      font-size: 18px !important; /* Smaller title */
+      font-size: 16px !important;
+      line-height: 1.2;
+      margin: 0 !important;
+      text-align: left;
     }
-    
-    .header-title div {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start; /* Align text to left */
+
+    .header-title div div { /* Subtitle */
+      font-size: 11px !important;
+      text-align: left;
     }
 
     /* Controls container */
     .app-header > div:last-child {
       width: 100%;
-      justify-content: space-between; /* Space out buttons */
+      display: flex;
       flex-wrap: wrap;
       gap: 8px;
-      padding-bottom: 4px;
+      justify-content: flex-start; /* Align buttons to left */
     }
     
     /* Layout Switcher */
     .app-header .ant-segmented {
-      flex-grow: 1; /* Make it take available space */
+      margin-right: auto; /* Push other buttons to right if needed, or keep compact */
+      flex-grow: 0; /* Don't force grow */
     }
 
     /* Buttons row */
     .app-header button {
-        padding: 4px 12px; /* Reduce padding */
-    }
-
-    /* Hide less important buttons on mobile to save space */
-    .app-header button span {
-      display: none; /* Hide button text, show only icons */
+        padding: 4px 10px;
+        height: 32px; /* Fixed height for consistency */
     }
 
     .app-header .header-search {
       width: 100% !important;
-      min-width: unset !important;
-      margin-top: 0;
+      margin-top: 4px;
+      order: 99; /* Force to bottom */
     }
 
     /* Adjust content height to account for taller header */
