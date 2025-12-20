@@ -662,10 +662,18 @@ function App() {
         </Drawer>
 
         <FloatButton.Group shape="circle" style={{ right: 24, bottom: 24 }}>
-          <FloatButton icon={<RobotOutlined />} tooltip="AI 助教" onClick={() => setChatOpen(true)} type="primary" style={{ right: 24, bottom: 80 }} />
           <FloatButton icon={<ReloadOutlined />} tooltip="重置视图" onClick={handleResetView} />
           <FloatButton icon={<CameraOutlined />} tooltip="导出图片" onClick={handleExportImage} />
         </FloatButton.Group>
+
+        <FloatButton 
+          icon={<RobotOutlined />} 
+          tooltip="AI 助教" 
+          onClick={() => setChatOpen(true)} 
+          type="primary" 
+          style={{ right: 24, bottom: 90, width: 56, height: 56 }} 
+          className="ai-chat-button"
+        />
         
         <Drawer
           title={
