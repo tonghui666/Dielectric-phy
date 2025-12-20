@@ -426,6 +426,17 @@ body {
         height: 32px; /* Fixed height for consistency */
     }
 
+    /* Hide less important buttons on mobile to save space */
+    .app-header button span {
+      display: none; /* Hide button text, show only icons */
+    }
+
+    /* Specifically hide "Developer" and "Help" buttons completely on mobile */
+    .app-header button:has(.anticon-info-circle),
+    .app-header button:has(.anticon-question-circle) {
+        display: none !important;
+    }
+
     .app-header .header-search {
       width: 100% !important;
       margin-top: 4px;
