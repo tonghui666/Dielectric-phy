@@ -43,7 +43,7 @@ function App() {
   const [chatOpen, setChatOpen] = useState(false);
   const [chatInput, setChatInput] = useState('');
   const [chatMessages, setChatMessages] = useState([
-    { role: 'system', content: '你好！我是你的电介质物理智能助教。有什么我可以帮你的吗？' }
+    { role: 'system', content: '你好！我是李玲霞的AI助教。有什么我可以帮你的吗？' }
   ]);
   const [chatLoading, setChatLoading] = useState(false);
 
@@ -653,7 +653,7 @@ function App() {
 
         <FloatButton 
           icon={<RobotOutlined />} 
-          tooltip="AI 助教" 
+          tooltip="李玲霞的AI助教" 
           onClick={() => setChatOpen(true)} 
           type="primary" 
           style={{ left: 24, bottom: 24, width: 56, height: 56 }} 
@@ -664,7 +664,7 @@ function App() {
           title={
             <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
               <RobotOutlined style={{ color: '#1890ff', fontSize: '24px' }} />
-              <span>AI 智能助教 (RAG)</span>
+              <span>李玲霞的AI助教</span>
             </div>
           }
           placement="right"
