@@ -362,47 +362,73 @@ body {
 }
 
 /* Mobile Responsive Styles */
-@media (max-width: 768px) {
-  .app-header {
-    padding: 0 16px !important;
-    height: auto !important;
-    min-height: 64px;
-    flex-wrap: wrap;
-    gap: 8px;
-    justify-content: center;
-  }
-
-  .header-title {
-    width: 100%;
-    justify-content: center;
-    margin-bottom: 8px !important;
-  }
+  @media (max-width: 768px) {
+    .app-header {
+      padding: 12px 16px !important;
+      height: auto !important;
+      min-height: 64px;
+      flex-direction: column;
+      gap: 12px;
+      justify-content: flex-start;
+      align-items: stretch; /* Stretch children to fill width */
+    }
   
-  .header-title div {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
+    .header-title {
+      width: 100%;
+      justify-content: flex-start; /* Align logo and text to left */
+      margin-bottom: 4px !important;
+    }
+    
+    .header-title img {
+      height: 32px; /* Smaller logo */
+      width: auto;
+      margin-right: 12px;
+    }
 
-  .app-header > div:last-child {
-    width: 100%;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 8px;
-    padding-bottom: 8px;
-  }
+    .header-title h4 {
+      font-size: 18px !important; /* Smaller title */
+    }
+    
+    .header-title div {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start; /* Align text to left */
+    }
 
-  /* Hide less important buttons on mobile to save space */
-  .app-header button span {
-    display: none; /* Hide button text, show only icons */
-  }
+    /* Controls container */
+    .app-header > div:last-child {
+      width: 100%;
+      justify-content: space-between; /* Space out buttons */
+      flex-wrap: wrap;
+      gap: 8px;
+      padding-bottom: 4px;
+    }
+    
+    /* Layout Switcher */
+    .app-header .ant-segmented {
+      flex-grow: 1; /* Make it take available space */
+    }
 
-  .app-header .header-search {
-    width: 100% !important;
-    min-width: unset !important;
-    order: 10; /* Move search bar to the bottom of header */
-    margin-top: 4px;
-  }
+    /* Buttons row */
+    .app-header button {
+        padding: 4px 12px; /* Reduce padding */
+    }
+
+    /* Hide less important buttons on mobile to save space */
+    .app-header button span {
+      display: none; /* Hide button text, show only icons */
+    }
+
+    .app-header .header-search {
+      width: 100% !important;
+      min-width: unset !important;
+      margin-top: 0;
+    }
+
+    /* Adjust content height to account for taller header */
+    .app-content {
+      height: calc(100vh - 140px); /* Estimate header height */
+    }
 
   /* Adjust floating buttons size and position */
   .ai-chat-button {
