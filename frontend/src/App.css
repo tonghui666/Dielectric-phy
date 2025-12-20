@@ -349,3 +349,87 @@ body {
   transform: translateX(8px);
   box-shadow: var(--shadow-md);
 }
+
+/* AI Chat Button */
+.ai-chat-button {
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.27, 1.55) !important;
+  box-shadow: 0 4px 16px rgba(24, 144, 255, 0.4) !important;
+}
+
+.ai-chat-button:hover {
+  transform: scale(1.1) rotate(10deg);
+  box-shadow: 0 8px 24px rgba(24, 144, 255, 0.6) !important;
+}
+
+/* Mobile Responsive Styles */
+@media (max-width: 768px) {
+  .app-header {
+    padding: 0 16px !important;
+    height: auto !important;
+    min-height: 64px;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+  }
+
+  .header-title {
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 8px !important;
+  }
+  
+  .header-title div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .app-header > div:last-child {
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding-bottom: 8px;
+  }
+
+  /* Hide less important buttons on mobile to save space */
+  .app-header button span {
+    display: none; /* Hide button text, show only icons */
+  }
+
+  .app-header .header-search {
+    width: 100% !important;
+    min-width: unset !important;
+    order: 10; /* Move search bar to the bottom of header */
+    margin-top: 4px;
+  }
+
+  /* Adjust floating buttons size and position */
+  .ai-chat-button {
+    width: 48px !important;
+    height: 48px !important;
+    left: 16px !important;
+    bottom: 16px !important;
+  }
+
+  .ant-float-btn-group {
+    right: 16px !important;
+    bottom: 16px !important;
+  }
+
+  /* Drawer adjustments */
+  .custom-drawer .ant-drawer-content-wrapper {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  
+  /* Chat drawer full width on mobile */
+  .ant-drawer-content-wrapper[style*="width: 400px"] {
+    width: 100% !important;
+  }
+
+  /* Hide stats panel on very small screens if it existed (we removed it, but good practice) */
+  .stats-panel {
+    display: none;
+  }
+}
