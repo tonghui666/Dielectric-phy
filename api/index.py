@@ -98,7 +98,7 @@ def chat(request: ChatRequest):
         context = search_knowledge_base(user_message)
         
         # 2. 构建 Prompt
-        system_prompt = "你是一个电介质物理学科的智能助教。请基于提供的上下文知识回答用户的问题。如果上下文没有相关信息，请利用你的专业知识回答，但要标注'（基于通用物理知识回答）'。回答要简洁、准确、学术化。"
+        system_prompt = "你是一个电介质物理学科的智能助教。请基于提供的上下文知识回答用户的问题。如果上下文没有相关信息，请利用你的专业知识回答，但要标注'（基于通用物理知识回答）'。回答要简洁、准确、学术化。\n\n重要提示：所有数学公式请必须使用LaTeX格式。行内公式用 $...$ 包裹，独立公式用 $$...$$ 包裹。例如：$E = mc^2$ 或 $$F = ma$$。"
         
         if context:
             system_prompt += f"\n\n参考上下文：\n{context}"
