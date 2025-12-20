@@ -441,14 +441,10 @@ body {
 
     /* Show text for key buttons on mobile */
     .app-header button:has(.anticon-robot) span,
-    .app-header button:has(.anticon-trophy) span {
+    .app-header button:has(.anticon-trophy) span,
+    .app-header button:has(.anticon-user) span {
       display: inline-block !important;
       font-size: 12px;
-    }
-    
-    /* Still hide text for "Prof Li" to save space, or maybe shorten it? */
-    .app-header button:has(.anticon-user) span {
-        display: none; /* Keep hidden or maybe show "李教授"? */
     }
 
     /* Theme Switch */

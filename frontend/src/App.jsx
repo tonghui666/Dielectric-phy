@@ -559,7 +559,7 @@ function App() {
             onClick={() => handleSearch('prof_li')}
             style={{ backgroundColor: '#faad14', borderColor: '#faad14', color: '#fff' }}
           >
-            李玲霞教授
+            李教授
           </Button>
           <Button 
             ref={refQuiz}
