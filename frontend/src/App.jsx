@@ -561,6 +561,14 @@ function App() {
           >
             李玲霞教授
           </Button>
+          <Button
+            type="primary"
+            icon={<RobotOutlined />}
+            onClick={() => setChatOpen(true)}
+            style={{ background: 'linear-gradient(135deg, #1890ff 0%, #36cfc9 100%)', border: 'none' }}
+          >
+            AI 助教
+          </Button>
           <Button 
             ref={refQuiz}
             type="primary" 
@@ -665,15 +673,6 @@ function App() {
           <FloatButton icon={<ReloadOutlined />} tooltip="重置视图" onClick={handleResetView} />
           <FloatButton icon={<CameraOutlined />} tooltip="导出图片" onClick={handleExportImage} />
         </FloatButton.Group>
-
-        <FloatButton 
-          icon={<RobotOutlined />} 
-          tooltip="AI 助教" 
-          onClick={() => setChatOpen(true)} 
-          type="primary" 
-          style={{ right: 24, bottom: 90, width: 56, height: 56 }} 
-          className="ai-chat-button"
-        />
         
         <Drawer
           title={
