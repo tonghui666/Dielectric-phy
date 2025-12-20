@@ -630,21 +630,6 @@ function App() {
               opts={{ renderer: 'canvas' }}
               theme={isDarkMode ? 'dark' : undefined}
             />
-            
-            <div className="stats-panel">
-              <div className="stat-item">
-                <div className="stat-value">{getStats().nodes}</div>
-                <div className="stat-label">知识节点</div>
-              </div>
-              <div className="stat-item">
-                <div className="stat-value">{getStats().relations}</div>
-                <div className="stat-label">关联关系</div>
-              </div>
-              <div className="stat-item">
-                <div className="stat-value">{getStats().categories}</div>
-                <div className="stat-label">学科领域</div>
-              </div>
-            </div>
           </div>
         )}
         
