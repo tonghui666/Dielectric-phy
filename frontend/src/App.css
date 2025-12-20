@@ -409,38 +409,58 @@ body {
     .app-header > div:last-child {
       width: 100%;
       display: flex;
-      flex-wrap: wrap;
+      flex-wrap: nowrap; /* Don't wrap buttons */
       gap: 8px;
-      justify-content: flex-start; /* Align buttons to left */
+      justify-content: flex-start;
+      align-items: center;
+      padding-bottom: 0;
+      overflow-x: auto; /* Allow horizontal scroll if needed */
+      -webkit-overflow-scrolling: touch;
     }
     
-    /* Layout Switcher */
+    /* Layout Switcher - Make it smaller */
     .app-header .ant-segmented {
-      margin-right: auto; /* Push other buttons to right if needed, or keep compact */
-      flex-grow: 0; /* Don't force grow */
+      margin-right: 0;
+      flex-grow: 0;
+      flex-shrink: 0;
+    }
+
+    .app-header .ant-segmented-item-label {
+        padding: 0 8px;
     }
 
     /* Buttons row */
     .app-header button {
-        padding: 4px 10px;
-        height: 32px; /* Fixed height for consistency */
+        padding: 4px 8px;
+        height: 32px;
+        flex-shrink: 0;
+        display: flex;
+        align-items: center;
+        gap: 4px;
     }
 
-    /* Hide less important buttons on mobile to save space */
-    .app-header button span {
-      display: none; /* Hide button text, show only icons */
+    /* Show text for key buttons on mobile */
+    .app-header button:has(.anticon-robot) span,
+    .app-header button:has(.anticon-trophy) span {
+      display: inline-block !important;
+      font-size: 12px;
+    }
+    
+    /* Still hide text for "Prof Li" to save space, or maybe shorten it? */
+    .app-header button:has(.anticon-user) span {
+        display: none; /* Keep hidden or maybe show "李教授"? */
     }
 
-    /* Specifically hide "Developer" and "Help" buttons completely on mobile */
-    .app-header button:has(.anticon-info-circle),
-    .app-header button:has(.anticon-question-circle) {
-        display: none !important;
+    /* Theme Switch */
+    .theme-switch {
+        margin-right: 0;
+        flex-shrink: 0;
     }
 
     .app-header .header-search {
       width: 100% !important;
-      margin-top: 4px;
-      order: 99; /* Force to bottom */
+      margin-top: 8px;
+      order: 99;
     }
 
     /* Adjust content height to account for taller header */
